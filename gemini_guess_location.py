@@ -9,7 +9,7 @@ responses = []
 
 INPUT_FOLDER = "output_images_B"
 PROMPT = "Please identify the specific location that this image was taken. Provide as much information behind your thought process as possible. Make the last line of your response be the specific location"
-API_KEY = "AIzaSyAoR549nCUym8FWhR_6PaFRFLs8zMrySwU"
+API_KEY = ""
 generation_config = {
   "temperature": 0.4,
   "top_p": 1,
