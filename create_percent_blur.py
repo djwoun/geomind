@@ -5,7 +5,7 @@ from PIL import Image, ImageFilter
 
 INPUT_FOLDER = 'input_images'
 OUTPUT_FOLDER = 'output_images_B'
-BLUR_PERCENTAGE = 20
+BLUR_PERCENTAGE = 30
 
 if not os.path.exists(OUTPUT_FOLDER):
     os.makedirs(OUTPUT_FOLDER)
