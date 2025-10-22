@@ -19,7 +19,7 @@ def blur_percent(tempimg, percent):
 
 for filename in os.listdir(INPUT_FOLDER):
     full_path = os.path.join(INPUT_FOLDER, filename)
-    print(full_path)
+    print(full_path[:full_path.index(".")])
     img = Image.open(full_path)
     blurred_image = blur_percent(img, BLUR_PERCENTAGE)
-    blurred_image.save(f"output_images_B/{filename}-{BLUR_PERCENTAGE}PercentBlur.png")
+    blurred_image.save(f"output_images_B/{filename[:filename.index(".")]}-{BLUR_PERCENTAGE}PercentBlur.png")
