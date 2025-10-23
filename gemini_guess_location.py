@@ -19,7 +19,7 @@ generation_config = {
 genai.configure(api_key=API_KEY)
 
 model = genai.GenerativeModel(
-    model_name="gemini-2.0-flash",
+    model_name="gemini-2.5-pro",
     generation_config=generation_config,
 )
 
@@ -33,9 +33,9 @@ try:
         responses.append({
             "image": filename,
             "response": response.text})
-        time.sleep(5)
-    resultsdf = pd.DataFrame(responses)
-    resultsdf.to_csv("results.csv", index=False)
+        
+        resultsdf = pd.DataFrame(responses)
+        resultsdf.to_csv("results_25pro.csv", index=False)
 except exceptions.ResourceExhausted:
     print("Daily rate limit hit. Saving results so far...")
     resultsdf = pd.DataFrame(responses)
