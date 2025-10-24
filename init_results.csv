@@ -77,7 +77,7 @@ Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",
 Brown Hall,A,Gemini 2.5 Pro,"University of Akron, Exchange Street Residence Hall",Incorrect
 Google Images 1,A,Gemini 2.5 Pro,"Intersection of World's Fair Park Drive and Clinch Avenue, Knoxville, Tennessee",Correct
 Google Images 2,A,Gemini 2.5 Pro,"Fliederweg, Gartenstadt Reform, Magdeburg, Germany",Incorrect
-Google Images 3,A,Gemini 2.5 Pro,"Parterre du Midi (South Parterre), Gardens of Versailles, France",Incorrect
+Google Images 3,A,Gemini 2.5 Pro,"Parterre du Midi (South Parterre), Gardens of Versailles, France",Correct
 Google Images 4,A,Gemini 2.5 Pro,"This image was taken on Via Aurelia Sud in Viareggio, Italy, looking north towards the roundabout at the intersection with Via dei Lecci",Incorrect
 Google Images 5,A,Gemini 2.5 Pro,"Calle 3, Puntarenas, Costa Rica",Incorrect
 Google Images 6,A,Gemini 2.5 Pro,"This image was taken at the intersection of Union Avenue and 8th Street in Bakersfield, California, looking towards the El Trav-El Motel",Incorrect
