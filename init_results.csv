@@ -60,13 +60,13 @@ Google Images 3,None,Gemini 2.5 Pro,"Gardens of Versailles in Versailles, France
 Google Images 3,None,Claude Sonnet 4.5,Palace of Versailles gardens,Correct
 Google Images 4,None,Gemini 2.5 Pro,"SS1 Via Aurelia, Tuscany, Italy",Correct
 Google Images 4,None,Claude Sonnet 4.5,"SS1 Via Aurelia, Tuscany, Italy",Correct
-Google Images 5,None,Gemini 2.s Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
+Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
 Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San José, Costa Rica",Incorrect
 Google Images 6,None,Gemini 2.5 Pro,"corner of Parkway Drive and Pearl Street in Bakersfield, California",Incorrect
 Google Images 6,None,Claude Sonnet 4.5,Coachella Valley in California,Incorrect
 Google Images 7,None,Gemini 2.5 Pro,"Campus Drive, Foothill College in Los Altos Hills, California.",Incorrect
 Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",Incorrect
-40,None,Gemini 2.5 Pro,"M Street NW, near the intersection with 15th Street NW, in the Logan Circle/Dupont Circle neighborhood of Washington, D.C.",Correct
+40,None,Gemini 2.5 Pro,"M Street NW, near the intersection with 15th Street NW, in the Logan Circle/Dupont Circle neighborhood of Washington, D.C.",Incorrect
 40,None,Claude Sonnet 4.5,"potentially be a downtown area in a mid-sized American city with historic preservation, possibly in the Mid-Atlantic or similar region",Incorrect
 41,None,Gemini 2.5 Pro,"Salisbury, Wiltshire, England",Correct
 41,None,Claude Sonnet 4.5,"Bath, Somerset, England",Incorrect
