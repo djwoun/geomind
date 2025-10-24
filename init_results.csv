@@ -74,3 +74,40 @@ Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",
 42,None,Claude Sonnet 4.5,highway rest stop or terminal facility somewhere along Chile's main north-south highway system,Incorrect
 43,None,Gemini 2.5 Pro,"Wellesley Road in Brentford, West London, UK",Correct
 43,None,Claude Sonnet 4.5,Brentford area of West London,Correct
+Brown Hall,A,Gemini 2.5 Pro,"University of Akron, Exchange Street Residence Hall",Incorrect
+Google Images 1,A,Gemini 2.5 Pro,"Intersection of World's Fair Park Drive and Clinch Avenue, Knoxville, Tennessee",Correct
+Google Images 2,A,Gemini 2.5 Pro,"Fliederweg, Gartenstadt Reform, Magdeburg, Germany",Incorrect
+Google Images 3,A,Gemini 2.5 Pro,"Parterre du Midi (South Parterre), Gardens of Versailles, France",Incorrect
+Google Images 4,A,Gemini 2.5 Pro,"This image was taken on Via Aurelia Sud in Viareggio, Italy, looking north towards the roundabout at the intersection with Via dei Lecci",Incorrect
+Google Images 5,A,Gemini 2.5 Pro,"Calle 3, Puntarenas, Costa Rica",Incorrect
+Google Images 6,A,Gemini 2.5 Pro,"This image was taken at the intersection of Union Avenue and 8th Street in Bakersfield, California, looking towards the El Trav-El Motel",Incorrect
+Google Images 7,A,Gemini 2.5 Pro,"Intersection of Calle Real and S Kellogg Ave, Goleta, California, USA",Incorrect
+1,A,Gemini 2.5 Pro,"The intersection of Snelling Avenue and Larpenteur Avenue in Falcon Heights, Minnesota",Incorrect
+10,A,Gemini 2.5 Pro,"Outside the Pret A Manger at 16 St Martin's Court, London, WC2H 0HR, United Kingdom",Correct
+11,A,Gemini 2.5 Pro,"Rockwood Parade, Sligo, Ireland",Incorrect
+12,A,Gemini 2.5 Pro,"London Stansted Airport (STN), England, UK",Correct
+13,A,Gemini 2.5 Pro,"Pike Place Market, looking east up Pike Street, Seattle, Washington, USA",Correct
+14,A,Gemini 2.5 Pro,"Chiesa di Ognissanti, Piazza Ognissanti, Florence, Italy",Correct
+15,A,Gemini 2.5 Pro,"The junction of Oxford Street, Bristol Street, and Abbey Row in Malmesbury, Wiltshire, England",Correct
+16,A,Gemini 2.5 Pro,"The intersection of Davie Street and Bute Street, Vancouver, British Columbia, Canada",Correct
+18,A,Gemini 2.5 Pro,"Plaza de Bolívar, in front of the Capilla del Sagrario, Bogotá, Colombia",Correct
+19,A,Gemini 2.5 Pro,"Washington Square Park, New York City, USA",Correct
+2,A,Gemini 2.5 Pro,"The photo was taken on South LaSalle Street at the intersection with West Jackson Boulevard in Chicago, Illinois",Correct
+23,A,Gemini 2.5 Pro,"The image was taken on Chingford Mount Road in Chingford, London, looking southeast from just outside the Daniel Bros department store",Incorrect
+24,A,Gemini 2.5 Pro,"This image was taken on 4th Avenue South, looking north towards the Yesler Way overpass in the Pioneer Square neighborhood of Seattle, Washington",Correct
+25,A,Gemini 2.5 Pro,"The photograph was taken on the River Bure in the village of Horning, Norfolk, England, looking at the Southern Comfort paddle boat at its mooring",Correct
+26,A,Gemini 2.5 Pro,"Stiftsplatz, Kaiserslautern, Germany",Incorrect
+27,A,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California, USA",Correct
+3,A,Gemini 2.5 Pro,"The photograph was taken at the southwest corner of the intersection of North Ashland Avenue and West Lake Street in Chicago, Illinois, looking northeast",Correct
+4,A,Gemini 2.5 Pro,"Antique Alley, Nashville, Indiana, USA",Incorrect
+40,A,Gemini 2.5 Pro,"On the north side of Walnut Street, just west of the intersection with S 34th Street, in Philadelphia, Pennsylvania",Incorrect
+41,A,Gemini 2.5 Pro,"The image was taken on Castle Street in Salisbury, Wiltshire, UK, looking south towards the city centre",Correct
+42,A,Gemini 2.5 Pro,"The photo was taken at the Turismo Andia bus terminal located at Av. Javier Prado Este 1093, La Victoria, Lima, Peru",Incorrect
+43,A,Gemini 2.5 Pro,"This image was taken on Braemar Road in Brentford, London, outside the old Griffin Park football stadium, likely on May 19, 2013",Correct
+5,A,Gemini 2.5 Pro,"Tung Choi Street, Mong Kok, Kowloon, Hong Kong",Correct
+6,A,Gemini 2.5 Pro,"The intersection of Madison Avenue and East 45th Street, looking east down 45th Street",Correct
+7,A,Gemini 2.5 Pro,"The photograph was taken from the pedestrian overpass at Waterfront Station in Vancouver, BC, looking east down West Cordova Street",Incorrect
+8,A,Gemini 2.5 Pro,"Main Market Square (Rynek Główny), Kraków, Poland",Correct
+9,A,Gemini 2.5 Pro,"The specific location is on the Massachusetts Avenue bridge, looking at the Burrage House in Boston, MA",Incorrect
+Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
+Ayres Hall UTK,A,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville, Tennessee, USA",Correct
