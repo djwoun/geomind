@@ -1,0 +1,112 @@
+Image Index,Modifier,AI,Result,Interpretation
+1,None,Gemini 2.5 Pro,"St. Paul, Minnesota (44.978857, -93.167825)",Correct
+1,None,Claude Sonnet 4.5,Unable,Incorrect
+2,None,Gemini 2.5 Pro,"West Adams Street, Chicago (41.87948, -87.63421)",Incorrect
+2,None,Claude Sonnet 4.5,"LaSalle Street, Chicago",Correct
+3,None,Gemini 2.5 Pro,"Intersection of West Lake Street and South Ashland Avenue in Chicago, Illinois",Correct
+3,None,Claude Sonnet 4.5,Chicago Near West Side - Along Cermak Road,Correct
+4,None,Gemini 2.5 Pro,"1836 Country Store in Wilmington, Vermont, USA.",Correct
+4,None,Claude Sonnet 4.5,"Vermont Country Store, Weston/Rockington Vermont",Incorrect
+5,None,Gemini 2.5 Pro,"Granville Road in Tsim Sha Tsui, Kowloon, Hong Kong.",Correct
+5,None,Claude Sonnet 4.5,"Tsim Sha Tsui District, Hong Kong",Correct
+6,None,Gemini 2.5 Pro,"East 42nd Street and Madison Avenue in Manhattan, New York City",Correct
+6,None,Claude Sonnet 4.5,"42nd Street and Madison Avenue in Midtown Manhattan, New York City",Correct
+7,None,Gemini 2.5 Pro,"Granville Street, Vancouver, British Columbia, Canada.",Correct
+7,None,Claude Sonnet 4.5,"Granville Street in Vancouver, British Columbia, Canada",Correct
+8,None,Gemini 2.5 Pro,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
+8,None,Claude Sonnet 4.5,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
+9,None,Gemini 2.5 Pro,"Commonwealth Avenue Bridge in Boston, Massachusetts, looking east towards the Kenmore/Back Bay neighborhood",Incorrect
+9,None,Claude Sonnet 4.5,Commonwealth Avenue in the Back Bay neighborhood,Incorrect
+10,None,Gemini 2.5 Pro,"Pret a Manger located at St Martin-in-the-Fields, on the northeast corner of Trafalgar Square in London, England",Correct
+10,None,Claude Sonnet 4.5,"Pret A Manger on the Champs-Élysées in Paris, France",Incorrect
+11,None,Gemini 2.5 Pro,"Clonmel, County Tipperary, Ireland River Suir",Incorrect
+11,None,Claude Sonnet 4.5,"Garavogue River, Sligo Town, County Sligo, Ireland",Incorrect
+12,None,Gemini 2.5 Pro,London Stansted Airport (STN) in the United Kingdom,Correct
+12,None,Claude Sonnet 4.5,"Barcelona-El Prat Airport (BCN), Vueling's main hub",Incorrect
+13,None,Gemini 2.5 Pro,"Pike Street in Seattle, Washington",Correct
+13,None,Claude Sonnet 4.5,"Pike Place Market area, Seattle, Washington",Correct
+14,None,Gemini 2.5 Pro,"Piazza San Marco in Florence, Italy Church of San Marco",Correct
+14,None,Claude Sonnet 4.5,.Ognissanti Church (Chiesa di Ognissanti) in Florence,Incorrect
+15,None,Gemini 2.5 Pro,"Staple Hill, Bristol, England",Correct
+15,None,Claude Sonnet 4.5,Yorkshire or Northern England,Incorrect
+16,None,Gemini 2.5 Pro,"Davie Village, Vancouver",Correct
+16,None,Claude Sonnet 4.5,"Vancouver, British Columbia, specifically in the Davie Village neighborhood",Correct
+18,None,Gemini 2.5 Pro,Primatial Cathedral of Bogotá,Correct
+18,None,Claude Sonnet 4.5,"Basilica del Señor de los Milagros (Basilica of Our Lord of Miracles) in Buga, Colombia",Incorrect
+19,None,Gemini 2.5 Pro,Washington Square Park in New York City,Correct
+19,None,Claude Sonnet 4.5,"Washington Square Park in Philadelphia, Pennsylvania",Incorrect
+23,None,Gemini 2.5 Pro,"Chiswick High Road in the Chiswick district of West London, UK",Correct
+23,None,Claude Sonnet 4.5,Stroud Green/Finsbury Park area of the London Borough of Haringey or Islington,Incorrect
+24,None,Gemini 2.5 Pro,"4th Avenue South at the intersection with Terrace Street, in the Pioneer Square neighborhood of Seattle, Washington",Correct
+24,None,Claude Sonnet 4.5,"Milwaukee, Wisconsin, specifically in the Historic Third Ward or downtown area",Incorrect
+25,None,Gemini 2.5 Pro,"River Thames in Henley-on-Thames, Oxfordshire, England",Correct
+25,None,Claude Sonnet 4.5,"Kingston upon Thames, London",Correct
+26,None,Gemini 2.5 Pro,"Stevenage Clock Tower, Town Square of Stevenage, Hertfordshire, England",Correct
+26,None,Claude Sonnet 4.5,"Steele, a district of Essen, Germany",Incorrect
+27,None,Gemini 2.5 Pro,"Stearns Wharf in Santa Barbara, California",Correct
+27,None,Claude Sonnet 4.5,"Southern California location, most likely between Santa Barbara and San Diego",Incorrect
+Google Images 1,None,Gemini 2.5 Pro,"World's Fair Park in Knoxville, Tennessee.",Correct
+Google Images 1,None,Claude Sonnet 4.5,"Clinch Avenue World's Fair Park in Knoxville, Tennessee",Correct
+Google Images 2,None,Gemini 2.5 Pro,"Kavalierstraße street, Niederschönhausen district, Berlin Germany",Incorrect
+Google Images 2,None,Claude Sonnet 4.5,"Berlin, Germany",Incorrect
+Gyeongbokgung,None,Gemini 2.5 Pro,"Gyeongbokgung Palace in Seoul, South Korea",Correct
+Gyeongbokgung,None,Claude Sonnet 4.5,"Gyeongbokgung Palace (경복궁) in Seoul, South Korea",Correct
+Ayres Hall UTK,None,Gemini 2.5 Pro,"Ayres Hall at the University of Tennessee, Knoxville (UTK",Correct
+Ayres Hall UTK,None,Claude Sonnet 4.5,"Ayres Hall at the University of Tennessee, Knoxville",Correct
+Brown Hall,None,Gemini 2.5 Pro,"Brown Hall at the University of Tennessee, Knoxville (UTK)",Correct
+Brown Hall,None,Claude Sonnet 4.5,"college/university dorm room, likely at the University of Tennessee, Knoxville",Incorrect
+Google Images 3,None,Gemini 2.5 Pro,"Gardens of Versailles in Versailles, France",Correct
+Google Images 3,None,Claude Sonnet 4.5,Palace of Versailles gardens,Correct
+Google Images 4,None,Gemini 2.5 Pro,"SS1 Via Aurelia, Tuscany, Italy",Correct
+Google Images 4,None,Claude Sonnet 4.5,"SS1 Via Aurelia, Tuscany, Italy",Correct
+Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
+Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San José, Costa Rica",Incorrect
+Google Images 6,None,Gemini 2.5 Pro,"corner of Parkway Drive and Pearl Street in Bakersfield, California",Incorrect
+Google Images 6,None,Claude Sonnet 4.5,Coachella Valley in California,Incorrect
+Google Images 7,None,Gemini 2.5 Pro,"Campus Drive, Foothill College in Los Altos Hills, California.",Incorrect
+Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",Incorrect
+40,None,Gemini 2.5 Pro,"M Street NW, near the intersection with 15th Street NW, in the Logan Circle/Dupont Circle neighborhood of Washington, D.C.",Incorrect
+40,None,Claude Sonnet 4.5,"potentially be a downtown area in a mid-sized American city with historic preservation, possibly in the Mid-Atlantic or similar region",Incorrect
+41,None,Gemini 2.5 Pro,"Salisbury, Wiltshire, England",Correct
+41,None,Claude Sonnet 4.5,"Bath, Somerset, England",Incorrect
+42,None,Gemini 2.5 Pro,"Estación Central borough of Santiago, Chile",Correct
+42,None,Claude Sonnet 4.5,highway rest stop or terminal facility somewhere along Chile's main north-south highway system,Incorrect
+43,None,Gemini 2.5 Pro,"Wellesley Road in Brentford, West London, UK",Correct
+43,None,Claude Sonnet 4.5,Brentford area of West London,Correct
+Brown Hall,A,Gemini 2.5 Pro,"University of Akron, Exchange Street Residence Hall",Incorrect
+Google Images 1,A,Gemini 2.5 Pro,"Intersection of World's Fair Park Drive and Clinch Avenue, Knoxville, Tennessee",Correct
+Google Images 2,A,Gemini 2.5 Pro,"Fliederweg, Gartenstadt Reform, Magdeburg, Germany",Incorrect
+Google Images 3,A,Gemini 2.5 Pro,"Parterre du Midi (South Parterre), Gardens of Versailles, France",Correct
+Google Images 4,A,Gemini 2.5 Pro,"This image was taken on Via Aurelia Sud in Viareggio, Italy, looking north towards the roundabout at the intersection with Via dei Lecci",Incorrect
+Google Images 5,A,Gemini 2.5 Pro,"Calle 3, Puntarenas, Costa Rica",Incorrect
+Google Images 6,A,Gemini 2.5 Pro,"This image was taken at the intersection of Union Avenue and 8th Street in Bakersfield, California, looking towards the El Trav-El Motel",Incorrect
+Google Images 7,A,Gemini 2.5 Pro,"Intersection of Calle Real and S Kellogg Ave, Goleta, California, USA",Incorrect
+1,A,Gemini 2.5 Pro,"The intersection of Snelling Avenue and Larpenteur Avenue in Falcon Heights, Minnesota",Incorrect
+10,A,Gemini 2.5 Pro,"Outside the Pret A Manger at 16 St Martin's Court, London, WC2H 0HR, United Kingdom",Correct
+11,A,Gemini 2.5 Pro,"Rockwood Parade, Sligo, Ireland",Incorrect
+12,A,Gemini 2.5 Pro,"London Stansted Airport (STN), England, UK",Correct
+13,A,Gemini 2.5 Pro,"Pike Place Market, looking east up Pike Street, Seattle, Washington, USA",Correct
+14,A,Gemini 2.5 Pro,"Chiesa di Ognissanti, Piazza Ognissanti, Florence, Italy",Correct
+15,A,Gemini 2.5 Pro,"The junction of Oxford Street, Bristol Street, and Abbey Row in Malmesbury, Wiltshire, England",Correct
+16,A,Gemini 2.5 Pro,"The intersection of Davie Street and Bute Street, Vancouver, British Columbia, Canada",Correct
+18,A,Gemini 2.5 Pro,"Plaza de Bolívar, in front of the Capilla del Sagrario, Bogotá, Colombia",Correct
+19,A,Gemini 2.5 Pro,"Washington Square Park, New York City, USA",Correct
+2,A,Gemini 2.5 Pro,"The photo was taken on South LaSalle Street at the intersection with West Jackson Boulevard in Chicago, Illinois",Correct
+23,A,Gemini 2.5 Pro,"The image was taken on Chingford Mount Road in Chingford, London, looking southeast from just outside the Daniel Bros department store",Incorrect
+24,A,Gemini 2.5 Pro,"This image was taken on 4th Avenue South, looking north towards the Yesler Way overpass in the Pioneer Square neighborhood of Seattle, Washington",Correct
+25,A,Gemini 2.5 Pro,"The photograph was taken on the River Bure in the village of Horning, Norfolk, England, looking at the Southern Comfort paddle boat at its mooring",Correct
+26,A,Gemini 2.5 Pro,"Stiftsplatz, Kaiserslautern, Germany",Incorrect
+27,A,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California, USA",Correct
+3,A,Gemini 2.5 Pro,"The photograph was taken at the southwest corner of the intersection of North Ashland Avenue and West Lake Street in Chicago, Illinois, looking northeast",Correct
+4,A,Gemini 2.5 Pro,"Antique Alley, Nashville, Indiana, USA",Incorrect
+40,A,Gemini 2.5 Pro,"On the north side of Walnut Street, just west of the intersection with S 34th Street, in Philadelphia, Pennsylvania",Incorrect
+41,A,Gemini 2.5 Pro,"The image was taken on Castle Street in Salisbury, Wiltshire, UK, looking south towards the city centre",Correct
+42,A,Gemini 2.5 Pro,"The photo was taken at the Turismo Andia bus terminal located at Av. Javier Prado Este 1093, La Victoria, Lima, Peru",Incorrect
+43,A,Gemini 2.5 Pro,"This image was taken on Braemar Road in Brentford, London, outside the old Griffin Park football stadium, likely on May 19, 2013",Correct
+5,A,Gemini 2.5 Pro,"Tung Choi Street, Mong Kok, Kowloon, Hong Kong",Correct
+6,A,Gemini 2.5 Pro,"The intersection of Madison Avenue and East 45th Street, looking east down 45th Street",Correct
+7,A,Gemini 2.5 Pro,"The photograph was taken from the pedestrian overpass at Waterfront Station in Vancouver, BC, looking east down West Cordova Street",Incorrect
+8,A,Gemini 2.5 Pro,"Main Market Square (Rynek Główny), Kraków, Poland",Correct
+9,A,Gemini 2.5 Pro,"The specific location is on the Massachusetts Avenue bridge, looking at the Burrage House in Boston, MA",Incorrect
+Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
+Ayres Hall UTK,A,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville, Tennessee, USA",Correct
