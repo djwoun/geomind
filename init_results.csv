@@ -5,6 +5,7 @@ Image Index,Modifier,AI,Result,Interpretation
 2,None,Claude Sonnet 4.5,"LaSalle Street, Chicago",Correct
 3,None,Gemini 2.5 Pro,"Intersection of West Lake Street and South Ashland Avenue in Chicago, Illinois",Correct
 3,None,Claude Sonnet 4.5,Chicago Near West Side - Along Cermak Road,Correct
+4,None,Gemini 2.5 Pro,"1836 Country Store in Wilmington, Vermont, USA.",Correct
 4,None,Claude Sonnet 4.5,"Vermont Country Store, Weston/Rockington Vermont",Incorrect
 5,None,Gemini 2.5 Pro,"Granville Road in Tsim Sha Tsui, Kowloon, Hong Kong.",Correct
 5,None,Claude Sonnet 4.5,"Tsim Sha Tsui District, Hong Kong",Correct
@@ -48,8 +49,6 @@ Google Images 1,None,Gemini 2.5 Pro,"World's Fair Park in Knoxville, Tennessee."
 Google Images 1,None,Claude Sonnet 4.5,"Clinch Avenue World's Fair Park in Knoxville, Tennessee",Correct
 Google Images 2,None,Gemini 2.5 Pro,"Kavalierstraße street, Niederschönhausen district, Berlin Germany",Incorrect
 Google Images 2,None,Claude Sonnet 4.5,"Berlin, Germany",Incorrect
-My House,None,Gemini 2.5 Pro,Some neighborhood in Appalachian/Great Smoky Mountains,Incorrect
-My House,None,Claude Sonnet 4.5,Pacific Northwest or Northeast,Incorrect
 Gyeongbokgung,None,Gemini 2.5 Pro,"Gyeongbokgung Palace in Seoul, South Korea",Correct
 Gyeongbokgung,None,Claude Sonnet 4.5,"Gyeongbokgung Palace (경복궁) in Seoul, South Korea",Correct
 Ayres Hall UTK,None,Gemini 2.5 Pro,"Ayres Hall at the University of Tennessee, Knoxville (UTK",Correct
