@@ -1,519 +1,519 @@
 Image Index,Modifier,AI,Result,Interpretation
 1,A,Gemini 2.5 Pro,"The intersection of Snelling Avenue and Larpenteur Avenue in Falcon Heights, Minnesota",Incorrect
-1,A,Claude Sonnet 4.5,.,.
-1,B,Gemini 2.5 Pro,"19th Ave S and 12th St N in Fargo, North Dakota",Incorrect
-1,B,Claude Sonnet 4.5,.,.
-1,C,Gemini 2.5 Pro,Unable,Incorrect
-1,C,Claude Sonnet 4.5,.,.
-1,D,Gemini 2.5 Pro,Unable,Incorrect
-1,D,Claude Sonnet 4.5,.,.
-1,E,Gemini 2.5 Pro,.,.
-1,E,Claude Sonnet 4.5,.,.
-1,F,Gemini 2.5 Pro,.,.
-1,F,Claude Sonnet 4.5,.,.
-1,None,Gemini 2.5 Pro,"St. Paul, Minnesota (44.978857, -93.167825)",Correct
-1,None,Claude Sonnet 4.5,Unable,Incorrect
+1,A,Claude Sonnet 4.5,Unable,Incorrect
 2,A,Gemini 2.5 Pro,"The photo was taken on South LaSalle Street at the intersection with West Jackson Boulevard in Chicago, Illinois",Correct
-2,A,Claude Sonnet 4.5,.,.
-2,B,Gemini 2.5 Pro,"North Dearborn Street in Chicago, Illinois",.
-2,B,Claude Sonnet 4.5,.,.
-2,C,Gemini 2.5 Pro,"Manhattan Bridge from DUMBO, Brooklyn, New York City",.
-2,C,Claude Sonnet 4.5,.,.
-2,D,Gemini 2.5 Pro,Unable,.
-2,D,Claude Sonnet 4.5,.,.
-2,E,Gemini 2.5 Pro,.,.
-2,E,Claude Sonnet 4.5,.,.
-2,F,Gemini 2.5 Pro,.,.
-2,F,Claude Sonnet 4.5,.,.
-2,None,Gemini 2.5 Pro,"West Adams Street, Chicago (41.87948, -87.63421)",Incorrect
-2,None,Claude Sonnet 4.5,"LaSalle Street, Chicago",Correct
+2,A,Claude Sonnet 4.5,"Downtown Chicago, Illinois",Incorrect
 3,A,Gemini 2.5 Pro,"The photograph was taken at the southwest corner of the intersection of North Ashland Avenue and West Lake Street in Chicago, Illinois, looking northeast",Correct
-3,A,Claude Sonnet 4.5,.,.
-3,B,Gemini 2.5 Pro,Intersection of South Canal Street and West Roosevelt Road in Chicago,.
-3,B,Claude Sonnet 4.5,.,.
-3,C,Gemini 2.5 Pro,The specific location is I-90/I-94 heading to Chicago,.
-3,C,Claude Sonnet 4.5,.,.
-3,D,Gemini 2.5 Pro,Unable,Incorrect
-3,D,Claude Sonnet 4.5,.,.
-3,E,Gemini 2.5 Pro,.,.
-3,E,Claude Sonnet 4.5,.,.
-3,F,Gemini 2.5 Pro,.,.
-3,F,Claude Sonnet 4.5,.,.
-3,None,Gemini 2.5 Pro,"Intersection of West Lake Street and South Ashland Avenue in Chicago, Illinois",Correct
-3,None,Claude Sonnet 4.5,Chicago Near West Side - Along Cermak Road,Correct
+3,A,Claude Sonnet 4.5,"Near the intersection of the Dan Ryan Expressway and surface streets on Chicago's Near South Side, likely in the vicinity of Chinatown or Bridgeport neighborhoods, looking toward Downtown Chicago",Correct
 4,A,Gemini 2.5 Pro,"Antique Alley, Nashville, Indiana, USA",Incorrect
-4,A,Claude Sonnet 4.5,.,.
-4,B,Gemini 2.5 Pro,"Shirakawa-go, Japan",.
-4,B,Claude Sonnet 4.5,.,.
-4,C,Gemini 2.5 Pro,Pumpkin Patch,.
-4,C,Claude Sonnet 4.5,.,.
-4,D,Gemini 2.5 Pro,Farmer's Market,.
-4,D,Claude Sonnet 4.5,.,.
-4,E,Gemini 2.5 Pro,.,.
-4,E,Claude Sonnet 4.5,.,.
-4,F,Gemini 2.5 Pro,.,.
-4,F,Claude Sonnet 4.5,.,.
-4,None,Gemini 2.5 Pro,"1836 Country Store in Wilmington, Vermont, USA.",Correct
-4,None,Claude Sonnet 4.5,"Vermont Country Store, Weston/Rockington Vermont",Incorrect
+4,A,Claude Sonnet 4.5,Unable,Incorrect
 5,A,Gemini 2.5 Pro,"Tung Choi Street, Mong Kok, Kowloon, Hong Kong",Correct
-5,A,Claude Sonnet 4.5,.,.
-5,B,Gemini 2.5 Pro,Hong Kong,.
-5,B,Claude Sonnet 4.5,.,.
-5,C,Gemini 2.5 Pro,Taiwan,.
-5,C,Claude Sonnet 4.5,.,.
-5,D,Gemini 2.5 Pro,Unable,.
-5,D,Claude Sonnet 4.5,.,.
-5,E,Gemini 2.5 Pro,.,.
-5,E,Claude Sonnet 4.5,.,.
-5,F,Gemini 2.5 Pro,.,.
-5,F,Claude Sonnet 4.5,.,.
-5,None,Gemini 2.5 Pro,"Granville Road in Tsim Sha Tsui, Kowloon, Hong Kong.",Correct
-5,None,Claude Sonnet 4.5,"Tsim Sha Tsui District, Hong Kong",Correct
+5,A,Claude Sonnet 4.5,"Sai Yeung Choi Street South, Mong Kok, Kowloon, Hong Kong",Correct
 6,A,Gemini 2.5 Pro,"The intersection of Madison Avenue and East 45th Street, looking east down 45th Street",Correct
-6,A,Claude Sonnet 4.5,.,.
-6,B,Gemini 2.5 Pro,"42nd Street and Madison Avenue, New York, NY",.
-6,B,Claude Sonnet 4.5,.,.
-6,C,Gemini 2.5 Pro,Lexington Avenue and 42nd Street,.
-6,C,Claude Sonnet 4.5,.,.
-6,D,Gemini 2.5 Pro,42nd Street looking towards  Chrysler Building,.
-6,D,Claude Sonnet 4.5,.,.
-6,E,Gemini 2.5 Pro,.,.
-6,E,Claude Sonnet 4.5,.,.
-6,F,Gemini 2.5 Pro,.,.
-6,F,Claude Sonnet 4.5,.,.
-6,None,Gemini 2.5 Pro,"East 42nd Street and Madison Avenue in Manhattan, New York City",Correct
-6,None,Claude Sonnet 4.5,"42nd Street and Madison Avenue in Midtown Manhattan, New York City",Correct
+6,A,Claude Sonnet 4.5,"42nd Street and Lexington Avenue (or nearby), Midtown Manhattan, New York City",Correct
 7,A,Gemini 2.5 Pro,"The photograph was taken from the pedestrian overpass at Waterfront Station in Vancouver, BC, looking east down West Cordova Street",Incorrect
-7,A,Claude Sonnet 4.5,.,.
-7,B,Gemini 2.5 Pro,"Granville Street, Vancouver, BC, Canada",.
-7,B,Claude Sonnet 4.5,.,.
-7,C,Gemini 2.5 Pro,"Vancouver, BC, Canada",.
-7,C,Claude Sonnet 4.5,.,.
-7,D,Gemini 2.5 Pro,New York City Street,.
-7,D,Claude Sonnet 4.5,.,.
-7,E,Gemini 2.5 Pro,.,.
-7,E,Claude Sonnet 4.5,.,.
-7,F,Gemini 2.5 Pro,.,.
-7,F,Claude Sonnet 4.5,.,.
-7,None,Gemini 2.5 Pro,"Granville Street, Vancouver, British Columbia, Canada.",Correct
-7,None,Claude Sonnet 4.5,"Granville Street in Vancouver, British Columbia, Canada",Correct
-8,A,Gemini 2.5 Pro,"Main Market Square (Rynek Główny), Kraków, Poland",Correct
-8,A,Claude Sonnet 4.5,.,.
-8,B,Gemini 2.5 Pro,"Main Market Square, Krakow, Poland",.
-8,B,Claude Sonnet 4.5,.,.
-8,C,Gemini 2.5 Pro,"Rothenburg ob der Tauber, Germany",.
-8,C,Claude Sonnet 4.5,.,.
-8,D,Gemini 2.5 Pro,"Mission San Xavier del Bac, Tucson, Arizona",.
-8,D,Claude Sonnet 4.5,.,.
-8,E,Gemini 2.5 Pro,.,.
-8,E,Claude Sonnet 4.5,.,.
-8,F,Gemini 2.5 Pro,.,.
-8,F,Claude Sonnet 4.5,.,.
-8,None,Gemini 2.5 Pro,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
-8,None,Claude Sonnet 4.5,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
+7,A,Claude Sonnet 4.5,"Yonge Street, Toronto, Ontario, Canada",Incorrect
+8,A,Gemini 2.5 Pro,"Main Market Square (Rynek Gaawny), Krakaw, Poland",Correct
+8,A,Claude Sonnet 4.5,"Main Market Square (Rynek G?�wny), Krak�w, Poland",Correct
 9,A,Gemini 2.5 Pro,"The specific location is on the Massachusetts Avenue bridge, looking at the Burrage House in Boston, MA",Incorrect
-9,A,Claude Sonnet 4.5,.,.
-9,B,Gemini 2.5 Pro,"Massachusetts Avenue, intersection of Memorial Drive, Cambridge, Massachusetts",.
-9,B,Claude Sonnet 4.5,.,.
-9,C,Gemini 2.5 Pro,Cross Bronx Expressway in New York City,.
-9,C,Claude Sonnet 4.5,.,.
-9,D,Gemini 2.5 Pro,Unable,.
-9,D,Claude Sonnet 4.5,.,.
-9,E,Gemini 2.5 Pro,.,.
-9,E,Claude Sonnet 4.5,.,.
-9,F,Gemini 2.5 Pro,.,.
-9,F,Claude Sonnet 4.5,.,.
-9,None,Gemini 2.5 Pro,"Commonwealth Avenue Bridge in Boston, Massachusetts, looking east towards the Kenmore/Back Bay neighborhood",Incorrect
-9,None,Claude Sonnet 4.5,Commonwealth Avenue in the Back Bay neighborhood,Incorrect
+9,A,Claude Sonnet 4.5,"Malm�, Sweden,",Incorrect
 10,A,Gemini 2.5 Pro,"Outside the Pret A Manger at 16 St Martin's Court, London, WC2H 0HR, United Kingdom",Correct
-10,A,Claude Sonnet 4.5,.,.
-10,B,Gemini 2.5 Pro,London England,.
-10,B,Claude Sonnet 4.5,.,.
-10,C,Gemini 2.5 Pro,Unable,.
-10,C,Claude Sonnet 4.5,.,.
-10,D,Gemini 2.5 Pro,Sports Arena or Stadium,.
-10,D,Claude Sonnet 4.5,.,.
-10,E,Gemini 2.5 Pro,.,.
-10,E,Claude Sonnet 4.5,.,.
-10,F,Gemini 2.5 Pro,.,.
-10,F,Claude Sonnet 4.5,.,.
-10,None,Gemini 2.5 Pro,"Pret a Manger located at St Martin-in-the-Fields, on the northeast corner of Trafalgar Square in London, England",Correct
-10,None,Claude Sonnet 4.5,"Pret A Manger on the Champs-Élysées in Paris, France",Incorrect
+10,A,Claude Sonnet 4.5,"Reading, Berkshire, UK - Broad Street or The Oracle shopping area",Incorrect
 11,A,Gemini 2.5 Pro,"Rockwood Parade, Sligo, Ireland",Incorrect
-11,A,Claude Sonnet 4.5,.,.
-11,B,Gemini 2.5 Pro,"River Avon in Stratford-upon-Avon, England",.
-11,B,Claude Sonnet 4.5,.,.
-11,C,Gemini 2.5 Pro,"River Cam in Cambridge, UK",.
-11,C,Claude Sonnet 4.5,.,.
-11,D,Gemini 2.5 Pro,Amsterdam Canal,.
-11,D,Claude Sonnet 4.5,.,.
-11,E,Gemini 2.5 Pro,.,.
-11,E,Claude Sonnet 4.5,.,.
-11,F,Gemini 2.5 Pro,.,.
-11,F,Claude Sonnet 4.5,.,.
-11,None,Gemini 2.5 Pro,"Clonmel, County Tipperary, Ireland River Suir",Incorrect
-11,None,Claude Sonnet 4.5,"Garavogue River, Sligo Town, County Sligo, Ireland",Incorrect
+11,A,Claude Sonnet 4.5,"Regent's Canal, Camden/Islington area, London, England",.
 12,A,Gemini 2.5 Pro,"London Stansted Airport (STN), England, UK",Correct
-12,A,Claude Sonnet 4.5,.,.
-12,B,Gemini 2.5 Pro,Airport Terminal,.
-12,B,Claude Sonnet 4.5,.,.
-12,C,Gemini 2.5 Pro,"Imperial War Museum, Duxford",.
-12,C,Claude Sonnet 4.5,.,.
-12,D,Gemini 2.5 Pro,Wind Farm,.
-12,D,Claude Sonnet 4.5,.,.
-12,E,Gemini 2.5 Pro,.,.
-12,E,Claude Sonnet 4.5,.,.
-12,F,Gemini 2.5 Pro,.,.
-12,F,Claude Sonnet 4.5,.,.
-12,None,Gemini 2.5 Pro,London Stansted Airport (STN) in the United Kingdom,Correct
-12,None,Claude Sonnet 4.5,"Barcelona-El Prat Airport (BCN), Vueling's main hub",Incorrect
+12,A,Claude Sonnet 4.5,Unable,Incorrect
 13,A,Gemini 2.5 Pro,"Pike Place Market, looking east up Pike Street, Seattle, Washington, USA",Correct
-13,A,Claude Sonnet 4.5,.,.
-13,B,Gemini 2.5 Pro,"Pioneer Square, Seattle, WA",.
-13,B,Claude Sonnet 4.5,.,.
-13,C,Gemini 2.5 Pro,"16th Street Mall, Denver, Colorado",.
-13,C,Claude Sonnet 4.5,.,.
-13,D,Gemini 2.5 Pro,"Tower of the Americas, San Antonio, TX",.
-13,D,Claude Sonnet 4.5,.,.
-13,E,Gemini 2.5 Pro,.,.
-13,E,Claude Sonnet 4.5,.,.
-13,F,Gemini 2.5 Pro,.,.
-13,F,Claude Sonnet 4.5,.,.
-13,None,Gemini 2.5 Pro,"Pike Street in Seattle, Washington",Correct
-13,None,Claude Sonnet 4.5,"Pike Place Market area, Seattle, Washington",Correct
+13,A,Claude Sonnet 4.5,"16th Street Mall, Denver, Colorado",Incorrect
 14,A,Gemini 2.5 Pro,"Chiesa di Ognissanti, Piazza Ognissanti, Florence, Italy",Correct
-14,A,Claude Sonnet 4.5,.,.
-14,B,Gemini 2.5 Pro,"Basilica di San Pietro, Perugia, Italy",.
-14,B,Claude Sonnet 4.5,.,.
-14,C,Gemini 2.5 Pro,"San Francisco Church in Antigua, Guatemala",.
-14,C,Claude Sonnet 4.5,.,.
-14,D,Gemini 2.5 Pro,"The Alamo, San Antonio, TX",.
-14,D,Claude Sonnet 4.5,.,.
-14,E,Gemini 2.5 Pro,.,.
-14,E,Claude Sonnet 4.5,.,.
-14,F,Gemini 2.5 Pro,.,.
-14,F,Claude Sonnet 4.5,.,.
-14,None,Gemini 2.5 Pro,"Piazza San Marco in Florence, Italy Church of San Marco",Correct
-14,None,Claude Sonnet 4.5,.Ognissanti Church (Chiesa di Ognissanti) in Florence,Incorrect
+14,A,Claude Sonnet 4.5,"Piazza Mino da Fiesole, Fiesole, Italy - Chiesa di San Domenico facade",Incorrect
 15,A,Gemini 2.5 Pro,"The junction of Oxford Street, Bristol Street, and Abbey Row in Malmesbury, Wiltshire, England",Correct
-15,A,Claude Sonnet 4.5,.,.
-15,B,Gemini 2.5 Pro,"Pateley Bridge, North Yorkshire, UK",.
-15,B,Claude Sonnet 4.5,.,.
-15,C,Gemini 2.5 Pro,"Broadway, Cotswolds, UK",.
-15,C,Claude Sonnet 4.5,.,.
-15,D,Gemini 2.5 Pro,"Marble Arch, London",.
-15,D,Claude Sonnet 4.5,.,.
-15,E,Gemini 2.5 Pro,.,.
-15,E,Claude Sonnet 4.5,.,.
-15,F,Gemini 2.5 Pro,.,.
-15,F,Claude Sonnet 4.5,.,.
-15,None,Gemini 2.5 Pro,"Staple Hill, Bristol, England",Correct
-15,None,Claude Sonnet 4.5,Yorkshire or Northern England,Incorrect
+15,A,Claude Sonnet 4.5,"Bishops Castle, Shropshire, England",Incorrect
 16,A,Gemini 2.5 Pro,"The intersection of Davie Street and Bute Street, Vancouver, British Columbia, Canada",Correct
-16,A,Claude Sonnet 4.5,.,.
-16,B,Gemini 2.5 Pro,"Vancouver, British Columbia, Canada",.
-16,B,Claude Sonnet 4.5,.,.
-16,C,Gemini 2.5 Pro,"Salt Lake City, Utah",.
-16,C,Claude Sonnet 4.5,.,.
-16,D,Gemini 2.5 Pro,Unable,.
-16,D,Claude Sonnet 4.5,.,.
-16,E,Gemini 2.5 Pro,.,.
-16,E,Claude Sonnet 4.5,.,.
-16,F,Gemini 2.5 Pro,.,.
-16,F,Claude Sonnet 4.5,.,.
-16,None,Gemini 2.5 Pro,"Davie Village, Vancouver",Correct
-16,None,Claude Sonnet 4.5,"Vancouver, British Columbia, specifically in the Davie Village neighborhood",Correct
+16,A,Claude Sonnet 4.5,"Montreal's Gay Village (Le Village), Montreal, Quebec, Canada",Incorrect
 18,A,Gemini 2.5 Pro,"Plaza de Bolívar, in front of the Capilla del Sagrario, Bogotá, Colombia",Correct
-18,A,Claude Sonnet 4.5,.,.
-18,B,Gemini 2.5 Pro,"Plaza de Bolivar, Bogota, Colombia",.
-18,B,Claude Sonnet 4.5,.,.
-18,C,Gemini 2.5 Pro,"Mark's Square, Venice, Italy",.
-18,C,Claude Sonnet 4.5,.,.
-18,D,Gemini 2.5 Pro,Unable,.
-18,D,Claude Sonnet 4.5,.,.
-18,E,Gemini 2.5 Pro,.,.
-18,E,Claude Sonnet 4.5,.,.
-18,F,Gemini 2.5 Pro,.,.
-18,F,Claude Sonnet 4.5,.,.
-18,None,Gemini 2.5 Pro,Primatial Cathedral of Bogotá,Correct
-18,None,Claude Sonnet 4.5,"Basilica del Señor de los Milagros (Basilica of Our Lord of Miracles) in Buga, Colombia",Incorrect
+18,A,Claude Sonnet 4.5,Tuscany or Umbria region of Italy,.
 19,A,Gemini 2.5 Pro,"Washington Square Park, New York City, USA",Correct
-19,A,Claude Sonnet 4.5,.,.
-19,B,Gemini 2.5 Pro,"Washington Square Park, New York City",.
-19,B,Claude Sonnet 4.5,.,.
-19,C,Gemini 2.5 Pro,"Erawan Falls, Thailand",.
-19,C,Claude Sonnet 4.5,.,.
-19,D,Gemini 2.5 Pro,Waterfall,.
-19,D,Claude Sonnet 4.5,.,.
-19,E,Gemini 2.5 Pro,.,.
-19,E,Claude Sonnet 4.5,.,.
-19,F,Gemini 2.5 Pro,.,.
-19,F,Claude Sonnet 4.5,.,.
-19,None,Gemini 2.5 Pro,Washington Square Park in New York City,Correct
-19,None,Claude Sonnet 4.5,"Washington Square Park in Philadelphia, Pennsylvania",Incorrect
+19,A,Claude Sonnet 4.5,"Washington Square Park, New York City, New York",Correct
 23,A,Gemini 2.5 Pro,"The image was taken on Chingford Mount Road in Chingford, London, looking southeast from just outside the Daniel Bros department store",Incorrect
-23,A,Claude Sonnet 4.5,.,.
-23,B,Gemini 2.5 Pro,"A307 in Teddington, London",.
-23,B,Claude Sonnet 4.5,.,.
-23,C,Gemini 2.5 Pro,Unable,.
-23,C,Claude Sonnet 4.5,.,.
-23,D,Gemini 2.5 Pro,Unable,.
-23,D,Claude Sonnet 4.5,.,.
-23,E,Gemini 2.5 Pro,.,.
-23,E,Claude Sonnet 4.5,.,.
-23,F,Gemini 2.5 Pro,.,.
-23,F,Claude Sonnet 4.5,.,.
-23,None,Gemini 2.5 Pro,"Chiswick High Road in the Chiswick district of West London, UK",Correct
-23,None,Claude Sonnet 4.5,Stroud Green/Finsbury Park area of the London Borough of Haringey or Islington,Incorrect
+23,A,Claude Sonnet 4.5,"Ealing, West London",Incorrect
 24,A,Gemini 2.5 Pro,"This image was taken on 4th Avenue South, looking north towards the Yesler Way overpass in the Pioneer Square neighborhood of Seattle, Washington",Correct
-24,A,Claude Sonnet 4.5,.,.
-24,B,Gemini 2.5 Pro,"Manhattan Bridge Arch and Plaza, Brooklyn, NY",.
-24,B,Claude Sonnet 4.5,.,.
-24,C,Gemini 2.5 Pro,"11th Ave and W 16th St, New York, NY 10011",.
-24,C,Claude Sonnet 4.5,.,.
-24,D,Gemini 2.5 Pro,"Chicago, Illinois",.
-24,D,Claude Sonnet 4.5,.,.
-24,E,Gemini 2.5 Pro,.,.
-24,E,Claude Sonnet 4.5,.,.
-24,F,Gemini 2.5 Pro,.,.
-24,F,Claude Sonnet 4.5,.,.
-24,None,Gemini 2.5 Pro,"4th Avenue South at the intersection with Terrace Street, in the Pioneer Square neighborhood of Seattle, Washington",Correct
-24,None,Claude Sonnet 4.5,"Milwaukee, Wisconsin, specifically in the Historic Third Ward or downtown area",Incorrect
+24,A,Claude Sonnet 4.5,"Under the Chicago ""L"", Downtown Chicago, Illinois",Incorrect
 25,A,Gemini 2.5 Pro,"The photograph was taken on the River Bure in the village of Horning, Norfolk, England, looking at the Southern Comfort paddle boat at its mooring",Correct
-25,A,Claude Sonnet 4.5,.,.
-25,B,Gemini 2.5 Pro,"Folly Bridge, Oxford",.
-25,B,Claude Sonnet 4.5,.,.
-25,C,Gemini 2.5 Pro,"Little Venice, London",.
-25,C,Claude Sonnet 4.5,.,.
-25,D,Gemini 2.5 Pro,"Orlando, Florida, USA",.
-25,D,Claude Sonnet 4.5,.,.
-25,E,Gemini 2.5 Pro,.,.
-25,E,Claude Sonnet 4.5,.,.
-25,F,Gemini 2.5 Pro,.,.
-25,F,Claude Sonnet 4.5,.,.
-25,None,Gemini 2.5 Pro,"River Thames in Henley-on-Thames, Oxfordshire, England",Correct
-25,None,Claude Sonnet 4.5,"Kingston upon Thames, London",Correct
+25,A,Claude Sonnet 4.5,"Thames River, Windsor Riverside, Windsor, Berkshire, England, UK",Correct
 26,A,Gemini 2.5 Pro,"Stiftsplatz, Kaiserslautern, Germany",Incorrect
-26,A,Claude Sonnet 4.5,.,.
-26,B,Gemini 2.5 Pro,"Marktplatz, Reutlingen, Germany",.
-26,B,Claude Sonnet 4.5,.,.
-26,C,Gemini 2.5 Pro,"Nara Deer Park, Nara, Japan",.
-26,C,Claude Sonnet 4.5,.,.
-26,D,Gemini 2.5 Pro,Hollywood and Highland Center,.
-26,D,Claude Sonnet 4.5,.,.
-26,E,Gemini 2.5 Pro,.,.
-26,E,Claude Sonnet 4.5,.,.
-26,F,Gemini 2.5 Pro,.,.
-26,F,Claude Sonnet 4.5,.,.
-26,None,Gemini 2.5 Pro,"Stevenage Clock Tower, Town Square of Stevenage, Hertfordshire, England",Correct
-26,None,Claude Sonnet 4.5,"Steele, a district of Essen, Germany",Incorrect
+26,A,Claude Sonnet 4.5,"Jahnplatz, Bielefeld, Germany",Incorrect
 27,A,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California, USA",Correct
-27,A,Claude Sonnet 4.5,.,.
-27,B,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California",.
-27,B,Claude Sonnet 4.5,.,.
-27,C,Gemini 2.5 Pro,Santa Monica Pier in California,.
-27,C,Claude Sonnet 4.5,.,.
-27,D,Gemini 2.5 Pro,"Santa Monica Pier, California",.
-27,D,Claude Sonnet 4.5,.,.
-27,E,Gemini 2.5 Pro,.,.
-27,E,Claude Sonnet 4.5,.,.
-27,F,Gemini 2.5 Pro,.,.
-27,F,Claude Sonnet 4.5,.,.
-27,None,Gemini 2.5 Pro,"Stearns Wharf in Santa Barbara, California",Correct
-27,None,Claude Sonnet 4.5,"Southern California location, most likely between Santa Barbara and San Diego",Incorrect
+27,A,Claude Sonnet 4.5,"Malibu Pier, Malibu, California",Incorrect
 40,A,Gemini 2.5 Pro,"On the north side of Walnut Street, just west of the intersection with S 34th Street, in Philadelphia, Pennsylvania",Incorrect
-40,A,Claude Sonnet 4.5,.,.
-40,B,Gemini 2.5 Pro,"Annapolis, Maryland",.
-40,B,Claude Sonnet 4.5,.,.
-40,C,Gemini 2.5 Pro,Unable,.
-40,C,Claude Sonnet 4.5,.,.
-40,D,Gemini 2.5 Pro,Some sidewalk,.
-40,D,Claude Sonnet 4.5,.,.
-40,E,Gemini 2.5 Pro,.,.
-40,E,Claude Sonnet 4.5,.,.
-40,F,Gemini 2.5 Pro,.,.
-40,F,Claude Sonnet 4.5,.,.
-40,None,Gemini 2.5 Pro,"M Street NW, near the intersection with 15th Street NW, in the Logan Circle/Dupont Circle neighborhood of Washington, D.C.",Incorrect
-40,None,Claude Sonnet 4.5,"potentially be a downtown area in a mid-sized American city with historic preservation, possibly in the Mid-Atlantic or similar region",Incorrect
+40,A,Claude Sonnet 4.5,"St. Augustine, Florida - Historic Downtown District",.
 41,A,Gemini 2.5 Pro,"The image was taken on Castle Street in Salisbury, Wiltshire, UK, looking south towards the city centre",Correct
-41,A,Claude Sonnet 4.5,.,.
-41,B,Gemini 2.5 Pro,"Michael's Hill in Bristol, UK",.
-41,B,Claude Sonnet 4.5,.,.
-41,C,Gemini 2.5 Pro,Dublin Bus Phibsborough Depot,.
-41,C,Claude Sonnet 4.5,.,.
-41,D,Gemini 2.5 Pro,Unable,.
-41,D,Claude Sonnet 4.5,.,.
-41,E,Gemini 2.5 Pro,.,.
-41,E,Claude Sonnet 4.5,.,.
-41,F,Gemini 2.5 Pro,.,.
-41,F,Claude Sonnet 4.5,.,.
-41,None,Gemini 2.5 Pro,"Salisbury, Wiltshire, England",Correct
-41,None,Claude Sonnet 4.5,"Bath, Somerset, England",Incorrect
+41,A,Claude Sonnet 4.5,"Harlow, Essex, England",Incorrect
 42,A,Gemini 2.5 Pro,"The photo was taken at the Turismo Andia bus terminal located at Av. Javier Prado Este 1093, La Victoria, Lima, Peru",Incorrect
-42,A,Claude Sonnet 4.5,.,.
-42,B,Gemini 2.5 Pro,"bus station in San Cristobal de las Casas, Mexico",.
-42,B,Claude Sonnet 4.5,.,.
-42,C,Gemini 2.5 Pro,Arriva bus depot,.
-42,C,Claude Sonnet 4.5,.,.
-42,D,Gemini 2.5 Pro,Unable,.
-42,D,Claude Sonnet 4.5,.,.
-42,E,Gemini 2.5 Pro,.,.
-42,E,Claude Sonnet 4.5,.,.
-42,F,Gemini 2.5 Pro,.,.
-42,F,Claude Sonnet 4.5,.,.
-42,None,Gemini 2.5 Pro,"Estación Central borough of Santiago, Chile",Correct
-42,None,Claude Sonnet 4.5,highway rest stop or terminal facility somewhere along Chile's main north-south highway system,Incorrect
+42,A,Claude Sonnet 4.5,"Toll plaza or service area along Ruta 5 (Pan-American Highway), Chile",Incorrect
 43,A,Gemini 2.5 Pro,"This image was taken on Braemar Road in Brentford, London, outside the old Griffin Park football stadium, likely on May 19, 2013",Correct
 43,A,Claude Sonnet 4.5,.,.
-43,B,Gemini 2.5 Pro,"London, England",.
-43,B,Claude Sonnet 4.5,.,.
-43,C,Gemini 2.5 Pro,"London, England",.
-43,C,Claude Sonnet 4.5,.,.
-43,D,Gemini 2.5 Pro,"London, England",.
-43,D,Claude Sonnet 4.5,.,.
-43,E,Gemini 2.5 Pro,.,.
-43,E,Claude Sonnet 4.5,.,.
-43,F,Gemini 2.5 Pro,.,.
-43,F,Claude Sonnet 4.5,.,.
-43,None,Gemini 2.5 Pro,"Wellesley Road in Brentford, West London, UK",Correct
-43,None,Claude Sonnet 4.5,Brentford area of West London,Correct
 Ayres Hall UTK,A,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville, Tennessee, USA",Correct
 Ayres Hall UTK,A,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,B,Gemini 2.5 Pro,John R. Emens College-Community Building,Incorrect
-Ayres Hall UTK,B,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,C,Gemini 2.5 Pro,Langford Architecture Center at Texas A&M University,Incorrect
-Ayres Hall UTK,C,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,D,Gemini 2.5 Pro,"Samford Hall, Auburn University",Incorrect
-Ayres Hall UTK,D,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,E,Gemini 2.5 Pro,.,.
-Ayres Hall UTK,E,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,F,Gemini 2.5 Pro,.,.
-Ayres Hall UTK,F,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,None,Gemini 2.5 Pro,"Ayres Hall at the University of Tennessee, Knoxville (UTK",Correct
-Ayres Hall UTK,None,Claude Sonnet 4.5,"Ayres Hall at the University of Tennessee, Knoxville",Correct
 Brown Hall,A,Gemini 2.5 Pro,"University of Akron, Exchange Street Residence Hall",Incorrect
 Brown Hall,A,Claude Sonnet 4.5,"University of Tennessee residence hall, Knoxville, Tennessee",Incorrect
-Brown Hall,B,Gemini 2.5 Pro,University of Tennessee Dorm Room,Incorrect
-Brown Hall,B,Claude Sonnet 4.5,Specific location: Cannot be determined from the available information in this image.,Incorrect
-Brown Hall,C,Gemini 2.5 Pro,College dorm room,Incorrect
-Brown Hall,C,Claude Sonnet 4.5,Unable,Incorrect
-Brown Hall,D,Gemini 2.5 Pro,Chipotle Mexican Grill,Incorrect
-Brown Hall,D,Claude Sonnet 4.5,.,.
-Brown Hall,E,Gemini 2.5 Pro,.,.
-Brown Hall,E,Claude Sonnet 4.5,.,.
-Brown Hall,F,Gemini 2.5 Pro,.,.
-Brown Hall,F,Claude Sonnet 4.5,.,.
-Brown Hall,None,Gemini 2.5 Pro,"Brown Hall at the University of Tennessee, Knoxville (UTK)",Correct
-Brown Hall,None,Claude Sonnet 4.5,"college/university dorm room, likely at the University of Tennessee, Knoxville",Incorrect
 Google Images 1,A,Gemini 2.5 Pro,"Intersection of World's Fair Park Drive and Clinch Avenue, Knoxville, Tennessee",Correct
 Google Images 1,A,Claude Sonnet 4.5,"Knoxville, Tennessee - World's Fair Park area, with view of the Sunsphere",Correct
-Google Images 1,B,Gemini 2.5 Pro,Clinch Avenue Knoxville TN,Correct
-Google Images 1,B,Claude Sonnet 4.5,"World's Fair Park, Knoxville, Tennessee, United States",Correct
-Google Images 1,C,Gemini 2.5 Pro,Knoxville Sunsphere Knoxville TN,Correct
-Google Images 1,C,Claude Sonnet 4.5,"Zarcero, Costa Rica",Incorrect
-Google Images 1,D,Gemini 2.5 Pro,"Sather Tower, UC Berkeley",Incorrect
-Google Images 1,D,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 1,E,Gemini 2.5 Pro,.,.
-Google Images 1,E,Claude Sonnet 4.5,.,.
-Google Images 1,F,Gemini 2.5 Pro,.,.
-Google Images 1,F,Claude Sonnet 4.5,.,.
-Google Images 1,None,Gemini 2.5 Pro,"World's Fair Park in Knoxville, Tennessee.",Correct
-Google Images 1,None,Claude Sonnet 4.5,"Clinch Avenue World's Fair Park in Knoxville, Tennessee",Correct
 Google Images 2,A,Gemini 2.5 Pro,"Fliederweg, Gartenstadt Reform, Magdeburg, Germany",Incorrect
 Google Images 2,A,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 2,B,Gemini 2.5 Pro,"Blumlager Kirchweg 12, 29221 Celle Germany",Incorrect
-Google Images 2,B,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 2,C,Gemini 2.5 Pro,"Am Schatzenplantz 1, 37081 Gattlingen, Germany",Incorrect
-Google Images 2,C,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 2,D,Gemini 2.5 Pro,11A Klempererstra 01069 Dresden Germany,Incorrect
-Google Images 2,D,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 2,E,Gemini 2.5 Pro,.,.
-Google Images 2,E,Claude Sonnet 4.5,.,.
-Google Images 2,F,Gemini 2.5 Pro,.,.
-Google Images 2,F,Claude Sonnet 4.5,.,.
-Google Images 2,None,Gemini 2.5 Pro,"Kavalierstrae street, Niederschnhausen district, Berlin Germany",Incorrect
-Google Images 2,None,Claude Sonnet 4.5,"Berlin, Germany",Incorrect
 Google Images 3,A,Gemini 2.5 Pro,"Parterre du Midi (South Parterre), Gardens of Versailles, France",Correct
 Google Images 3,A,Claude Sonnet 4.5,"Auschwitz-Birkenau State Museum, O?wi?cim, Poland",Incorrect
-Google Images 3,B,Gemini 2.5 Pro,Garden of Versailles,Correct
-Google Images 3,B,Claude Sonnet 4.5,"Racing circuit in Germany, Belgium, or Eastern Europe",Incorrect
-Google Images 3,C,Gemini 2.5 Pro,A parking lot near a park,Incorrect
-Google Images 3,C,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 3,D,Gemini 2.5 Pro,A parking lot of a park,Incorrect
-Google Images 3,D,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 3,E,Gemini 2.5 Pro,.,.
-Google Images 3,E,Claude Sonnet 4.5,.,.
-Google Images 3,F,Gemini 2.5 Pro,.,.
-Google Images 3,F,Claude Sonnet 4.5,.,.
-Google Images 3,None,Gemini 2.5 Pro,"Gardens of Versailles in Versailles, France",Correct
-Google Images 3,None,Claude Sonnet 4.5,Palace of Versailles gardens,Correct
 Google Images 4,A,Gemini 2.5 Pro,"This image was taken on Via Aurelia Sud in Viareggio, Italy, looking north towards the roundabout at the intersection with Via dei Lecci",Incorrect
 Google Images 4,A,Claude Sonnet 4.5,"Tuscany or Umbria region, Italy",Incorrect
-Google Images 4,B,Gemini 2.5 Pro,"Via del Mare, Marina di Grosseto, Tuscany, Italy",Incorrect
-Google Images 4,B,Claude Sonnet 4.5,European road,Incorrect
-Google Images 4,C,Gemini 2.5 Pro,"Strada Statale 16 Adriatica, 131, Riccione RN, Italy",Incorrect
-Google Images 4,C,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 4,D,Gemini 2.5 Pro,Unable,Incorrect
-Google Images 4,D,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 4,E,Gemini 2.5 Pro,.,.
-Google Images 4,E,Claude Sonnet 4.5,.,.
-Google Images 4,F,Gemini 2.5 Pro,.,.
-Google Images 4,F,Claude Sonnet 4.5,.,.
-Google Images 4,None,Gemini 2.5 Pro,"SS1 Via Aurelia, Tuscany, Italy",Correct
-Google Images 4,None,Claude Sonnet 4.5,"SS1 Via Aurelia, Tuscany, Italy",Correct
 Google Images 5,A,Gemini 2.5 Pro,"Calle 3, Puntarenas, Costa Rica",Incorrect
 Google Images 5,A,Claude Sonnet 4.5,.,.
-Google Images 5,B,Gemini 2.5 Pro,"Calle 466, La Fortuna, Costa Rica",Incorrect
-Google Images 5,B,Claude Sonnet 4.5,.,.
-Google Images 5,C,Gemini 2.5 Pro,"Main Street, Tiburon, California",Incorrect
-Google Images 5,C,Claude Sonnet 4.5,.,.
-Google Images 5,D,Gemini 2.5 Pro,Unable,Incorrect
-Google Images 5,D,Claude Sonnet 4.5,.,.
-Google Images 5,E,Gemini 2.5 Pro,.,.
-Google Images 5,E,Claude Sonnet 4.5,.,.
-Google Images 5,F,Gemini 2.5 Pro,.,.
-Google Images 5,F,Claude Sonnet 4.5,.,.
-Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
-Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San José, Costa Rica",Incorrect
 Google Images 6,A,Gemini 2.5 Pro,"This image was taken at the intersection of Union Avenue and 8th Street in Bakersfield, California, looking towards the El Trav-El Motel",Incorrect
 Google Images 6,A,Claude Sonnet 4.5,.,.
-Google Images 6,B,Gemini 2.5 Pro,"34.690849, -117.330869",.
-Google Images 6,B,Claude Sonnet 4.5,,.
-Google Images 6,C,Gemini 2.5 Pro,"Calico Ghost Town Road, Yermo, CA 92398",.
-Google Images 6,C,Claude Sonnet 4.5,.,.
-Google Images 6,D,Gemini 2.5 Pro,"33�27'57.8""N 111�55'26.8""W",.
-Google Images 6,D,Claude Sonnet 4.5,.,.
-Google Images 6,E,Gemini 2.5 Pro,.,.
-Google Images 6,E,Claude Sonnet 4.5,.,.
-Google Images 6,F,Gemini 2.5 Pro,.,.
-Google Images 6,F,Claude Sonnet 4.5,.,.
-Google Images 6,None,Gemini 2.5 Pro,"corner of Parkway Drive and Pearl Street in Bakersfield, California",Incorrect
-Google Images 6,None,Claude Sonnet 4.5,Coachella Valley in California,Incorrect
 Google Images 7,A,Gemini 2.5 Pro,"Intersection of Calle Real and S Kellogg Ave, Goleta, California, USA",Incorrect
 Google Images 7,A,Claude Sonnet 4.5,.,.
-Google Images 7,B,Gemini 2.5 Pro,"intersection of E Charleston Rd & San Antonio Rd, Palo Alto, CA 94303, USA",.
-Google Images 7,B,Claude Sonnet 4.5,.,.
-Google Images 7,C,Gemini 2.5 Pro,"1800 2nd St, Berkeley, CA 94710, USA",.
-Google Images 7,C,Claude Sonnet 4.5,.,.
-Google Images 7,D,Gemini 2.5 Pro,.,.
-Google Images 7,D,Claude Sonnet 4.5,"California Street, Berkeley, CA",.
-Google Images 7,E,Gemini 2.5 Pro,.,.
-Google Images 7,E,Claude Sonnet 4.5,.,.
-Google Images 7,F,Gemini 2.5 Pro,.,.
-Google Images 7,F,Claude Sonnet 4.5,.,.
-Google Images 7,None,Gemini 2.5 Pro,"Campus Drive, Foothill College in Los Altos Hills, California.",Incorrect
-Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",Incorrect
 Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,A,Claude Sonnet 4.5,.,.
+1,B,Gemini 2.5 Pro,"19th Ave S and 12th St N in Fargo, North Dakota",Incorrect
+1,B,Claude Sonnet 4.5,.,.
+2,B,Gemini 2.5 Pro,"North Dearborn Street in Chicago, Illinois",.
+2,B,Claude Sonnet 4.5,.,.
+3,B,Gemini 2.5 Pro,Intersection of South Canal Street and West Roosevelt Road in Chicago,.
+3,B,Claude Sonnet 4.5,.,.
+4,B,Gemini 2.5 Pro,"Shirakawa-go, Japan",.
+4,B,Claude Sonnet 4.5,.,.
+5,B,Gemini 2.5 Pro,Hong Kong,.
+5,B,Claude Sonnet 4.5,.,.
+6,B,Gemini 2.5 Pro,"42nd Street and Madison Avenue, New York, NY",.
+6,B,Claude Sonnet 4.5,.,.
+7,B,Gemini 2.5 Pro,"Granville Street, Vancouver, BC, Canada",.
+7,B,Claude Sonnet 4.5,.,.
+8,B,Gemini 2.5 Pro,"Main Market Square, Krakow, Poland",.
+8,B,Claude Sonnet 4.5,.,.
+9,B,Gemini 2.5 Pro,"Massachusetts Avenue, intersection of Memorial Drive, Cambridge, Massachusetts",.
+9,B,Claude Sonnet 4.5,.,.
+10,B,Gemini 2.5 Pro,London England,.
+10,B,Claude Sonnet 4.5,.,.
+11,B,Gemini 2.5 Pro,"River Avon in Stratford-upon-Avon, England",.
+11,B,Claude Sonnet 4.5,.,.
+12,B,Gemini 2.5 Pro,Airport Terminal,.
+12,B,Claude Sonnet 4.5,.,.
+13,B,Gemini 2.5 Pro,"Pioneer Square, Seattle, WA",Correct
+13,B,Claude Sonnet 4.5,.,.
+14,B,Gemini 2.5 Pro,"Basilica di San Pietro, Perugia, Italy",Incorrect
+14,B,Claude Sonnet 4.5,.,.
+15,B,Gemini 2.5 Pro,"Pateley Bridge, North Yorkshire, UK",Incorrect
+15,B,Claude Sonnet 4.5,.,.
+16,B,Gemini 2.5 Pro,"Vancouver, British Columbia, Canada",Correct
+16,B,Claude Sonnet 4.5,.,.
+18,B,Gemini 2.5 Pro,"Plaza de Bolivar, Bogota, Colombia",.
+18,B,Claude Sonnet 4.5,.,.
+19,B,Gemini 2.5 Pro,"Washington Square Park, New York City",Correct
+19,B,Claude Sonnet 4.5,.,.
+23,B,Gemini 2.5 Pro,"A307 in Teddington, London",Incorrect
+23,B,Claude Sonnet 4.5,.,.
+24,B,Gemini 2.5 Pro,"Manhattan Bridge Arch and Plaza, Brooklyn, NY",Incorrect
+24,B,Claude Sonnet 4.5,.,.
+25,B,Gemini 2.5 Pro,"Folly Bridge, Oxford",Incorrect
+25,B,Claude Sonnet 4.5,.,.
+26,B,Gemini 2.5 Pro,"Marktplatz, Reutlingen, Germany",Incorrect
+26,B,Claude Sonnet 4.5,.,.
+27,B,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California",Correct
+27,B,Claude Sonnet 4.5,.,.
+40,B,Gemini 2.5 Pro,"Annapolis, Maryland",.
+40,B,Claude Sonnet 4.5,.,.
+41,B,Gemini 2.5 Pro,"Michael's Hill in Bristol, UK",Incorrect
+41,B,Claude Sonnet 4.5,.,.
+42,B,Gemini 2.5 Pro,"bus station in San Cristobal de las Casas, Mexico",Incorrect
+42,B,Claude Sonnet 4.5,.,.
+43,B,Gemini 2.5 Pro,"London, England",.
+43,B,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,B,Gemini 2.5 Pro,John R. Emens College-Community Building,Incorrect
+Ayres Hall UTK,B,Claude Sonnet 4.5,.,.
+Brown Hall,B,Gemini 2.5 Pro,University of Tennessee Dorm Room,Incorrect
+Brown Hall,B,Claude Sonnet 4.5,Specific location: Cannot be determined from the available information in this image.,Incorrect
+Google Images 1,B,Gemini 2.5 Pro,Clinch Avenue Knoxville TN,Correct
+Google Images 1,B,Claude Sonnet 4.5,"World's Fair Park, Knoxville, Tennessee, United States",Correct
+Google Images 2,B,Gemini 2.5 Pro,"Blumlager Kirchweg 12, 29221 Celle Germany",Incorrect
+Google Images 2,B,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 3,B,Gemini 2.5 Pro,Garden of Versailles,Correct
+Google Images 3,B,Claude Sonnet 4.5,"Racing circuit in Germany, Belgium, or Eastern Europe",Incorrect
+Google Images 4,B,Gemini 2.5 Pro,"Via del Mare, Marina di Grosseto, Tuscany, Italy",Incorrect
+Google Images 4,B,Claude Sonnet 4.5,European road,Incorrect
+Google Images 5,B,Gemini 2.5 Pro,"Calle 466, La Fortuna, Costa Rica",Incorrect
+Google Images 5,B,Claude Sonnet 4.5,.,.
+Google Images 6,B,Gemini 2.5 Pro,"34.690849, -117.330869",.
+Google Images 6,B,Claude Sonnet 4.5,,.
+Google Images 7,B,Gemini 2.5 Pro,"intersection of E Charleston Rd & San Antonio Rd, Palo Alto, CA 94303, USA",.
+Google Images 7,B,Claude Sonnet 4.5,.,.
 Gyeongbokgung,B,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,B,Claude Sonnet 4.5,.,.
+1,C,Gemini 2.5 Pro,Unable,Incorrect
+1,C,Claude Sonnet 4.5,.,.
+2,C,Gemini 2.5 Pro,"Manhattan Bridge from DUMBO, Brooklyn, New York City",.
+2,C,Claude Sonnet 4.5,.,.
+3,C,Gemini 2.5 Pro,The specific location is I-90/I-94 heading to Chicago,.
+3,C,Claude Sonnet 4.5,.,.
+4,C,Gemini 2.5 Pro,Pumpkin Patch,.
+4,C,Claude Sonnet 4.5,.,.
+5,C,Gemini 2.5 Pro,Taiwan,.
+5,C,Claude Sonnet 4.5,.,.
+6,C,Gemini 2.5 Pro,Lexington Avenue and 42nd Street,.
+6,C,Claude Sonnet 4.5,.,.
+7,C,Gemini 2.5 Pro,"Vancouver, BC, Canada",.
+7,C,Claude Sonnet 4.5,.,.
+8,C,Gemini 2.5 Pro,"Rothenburg ob der Tauber, Germany",.
+8,C,Claude Sonnet 4.5,.,.
+9,C,Gemini 2.5 Pro,Cross Bronx Expressway in New York City,.
+9,C,Claude Sonnet 4.5,.,.
+10,C,Gemini 2.5 Pro,Unable,.
+10,C,Claude Sonnet 4.5,.,.
+11,C,Gemini 2.5 Pro,"River Cam in Cambridge, UK",.
+11,C,Claude Sonnet 4.5,.,.
+12,C,Gemini 2.5 Pro,"Imperial War Museum, Duxford",.
+12,C,Claude Sonnet 4.5,.,.
+13,C,Gemini 2.5 Pro,"16th Street Mall, Denver, Colorado",Incorrect
+13,C,Claude Sonnet 4.5,.,.
+14,C,Gemini 2.5 Pro,"San Francisco Church in Antigua, Guatemala",Incorrect
+14,C,Claude Sonnet 4.5,.,.
+15,C,Gemini 2.5 Pro,"Broadway, Cotswolds, UK",Incorrect
+15,C,Claude Sonnet 4.5,.,.
+16,C,Gemini 2.5 Pro,"Salt Lake City, Utah",Incorrect
+16,C,Claude Sonnet 4.5,.,.
+18,C,Gemini 2.5 Pro,"Mark's Square, Venice, Italy",.
+18,C,Claude Sonnet 4.5,.,.
+19,C,Gemini 2.5 Pro,"Erawan Falls, Thailand",Incorrect
+19,C,Claude Sonnet 4.5,.,.
+23,C,Gemini 2.5 Pro,Unable,Incorrect
+23,C,Claude Sonnet 4.5,.,.
+24,C,Gemini 2.5 Pro,"11th Ave and W 16th St, New York, NY 10011",Incorrect
+24,C,Claude Sonnet 4.5,.,.
+25,C,Gemini 2.5 Pro,"Little Venice, London",Incorrect
+25,C,Claude Sonnet 4.5,.,.
+26,C,Gemini 2.5 Pro,"Nara Deer Park, Nara, Japan",Incorrect
+26,C,Claude Sonnet 4.5,.,.
+27,C,Gemini 2.5 Pro,Santa Monica Pier in California,Incorrect
+27,C,Claude Sonnet 4.5,.,.
+40,C,Gemini 2.5 Pro,Unable,Incorrect
+40,C,Claude Sonnet 4.5,.,.
+41,C,Gemini 2.5 Pro,Dublin Bus Phibsborough Depot,Incorrect
+41,C,Claude Sonnet 4.5,.,.
+42,C,Gemini 2.5 Pro,Arriva bus depot,Incorrect
+42,C,Claude Sonnet 4.5,.,.
+43,C,Gemini 2.5 Pro,"London, England",.
+43,C,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,C,Gemini 2.5 Pro,Langford Architecture Center at Texas A&M University,Incorrect
+Ayres Hall UTK,C,Claude Sonnet 4.5,.,.
+Brown Hall,C,Gemini 2.5 Pro,College dorm room,Incorrect
+Brown Hall,C,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 1,C,Gemini 2.5 Pro,Knoxville Sunsphere Knoxville TN,Correct
+Google Images 1,C,Claude Sonnet 4.5,"Zarcero, Costa Rica",Incorrect
+Google Images 2,C,Gemini 2.5 Pro,"Am Schatzenplantz 1, 37081 Gattlingen, Germany",Incorrect
+Google Images 2,C,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 3,C,Gemini 2.5 Pro,A parking lot near a park,Incorrect
+Google Images 3,C,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 4,C,Gemini 2.5 Pro,"Strada Statale 16 Adriatica, 131, Riccione RN, Italy",Incorrect
+Google Images 4,C,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 5,C,Gemini 2.5 Pro,"Main Street, Tiburon, California",Incorrect
+Google Images 5,C,Claude Sonnet 4.5,.,.
+Google Images 6,C,Gemini 2.5 Pro,"Calico Ghost Town Road, Yermo, CA 92398",.
+Google Images 6,C,Claude Sonnet 4.5,.,.
+Google Images 7,C,Gemini 2.5 Pro,"1800 2nd St, Berkeley, CA 94710, USA",.
+Google Images 7,C,Claude Sonnet 4.5,.,.
 Gyeongbokgung,C,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,C,Claude Sonnet 4.5,.,.
+1,D,Gemini 2.5 Pro,Unable,Incorrect
+1,D,Claude Sonnet 4.5,.,.
+2,D,Gemini 2.5 Pro,Unable,.
+2,D,Claude Sonnet 4.5,.,.
+3,D,Gemini 2.5 Pro,Unable,Incorrect
+3,D,Claude Sonnet 4.5,.,.
+4,D,Gemini 2.5 Pro,Farmer's Market,.
+4,D,Claude Sonnet 4.5,.,.
+5,D,Gemini 2.5 Pro,Unable,.
+5,D,Claude Sonnet 4.5,.,.
+6,D,Gemini 2.5 Pro,42nd Street looking towards  Chrysler Building,.
+6,D,Claude Sonnet 4.5,.,.
+7,D,Gemini 2.5 Pro,New York City Street,.
+7,D,Claude Sonnet 4.5,.,.
+8,D,Gemini 2.5 Pro,"Mission San Xavier del Bac, Tucson, Arizona",.
+8,D,Claude Sonnet 4.5,.,.
+9,D,Gemini 2.5 Pro,Unable,.
+9,D,Claude Sonnet 4.5,.,.
+10,D,Gemini 2.5 Pro,Sports Arena or Stadium,.
+10,D,Claude Sonnet 4.5,.,.
+11,D,Gemini 2.5 Pro,Amsterdam Canal,.
+11,D,Claude Sonnet 4.5,.,.
+12,D,Gemini 2.5 Pro,Wind Farm,.
+12,D,Claude Sonnet 4.5,.,.
+13,D,Gemini 2.5 Pro,"Tower of the Americas, San Antonio, TX",Incorrect
+13,D,Claude Sonnet 4.5,.,.
+14,D,Gemini 2.5 Pro,"The Alamo, San Antonio, TX",Incorrect
+14,D,Claude Sonnet 4.5,.,.
+15,D,Gemini 2.5 Pro,"Marble Arch, London",Incorrect
+15,D,Claude Sonnet 4.5,.,.
+16,D,Gemini 2.5 Pro,Unable,Incorrect
+16,D,Claude Sonnet 4.5,.,.
+18,D,Gemini 2.5 Pro,Unable,.
+18,D,Claude Sonnet 4.5,.,.
+19,D,Gemini 2.5 Pro,Waterfall,Incorrect
+19,D,Claude Sonnet 4.5,.,.
+23,D,Gemini 2.5 Pro,Unable,Incorrect
+23,D,Claude Sonnet 4.5,.,.
+24,D,Gemini 2.5 Pro,"Chicago, Illinois",Incorrect
+24,D,Claude Sonnet 4.5,.,.
+25,D,Gemini 2.5 Pro,"Orlando, Florida, USA",Incorrect
+25,D,Claude Sonnet 4.5,.,.
+26,D,Gemini 2.5 Pro,Hollywood and Highland Center,Incorrect
+26,D,Claude Sonnet 4.5,.,.
+27,D,Gemini 2.5 Pro,"Santa Monica Pier, California",Incorrect
+27,D,Claude Sonnet 4.5,.,.
+40,D,Gemini 2.5 Pro,Some sidewalk,Incorrect
+40,D,Claude Sonnet 4.5,.,.
+41,D,Gemini 2.5 Pro,Unable,Incorrect
+41,D,Claude Sonnet 4.5,.,.
+42,D,Gemini 2.5 Pro,Unable,Incorrect
+42,D,Claude Sonnet 4.5,.,.
+43,D,Gemini 2.5 Pro,"London, England",.
+43,D,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,D,Gemini 2.5 Pro,"Samford Hall, Auburn University",Incorrect
+Ayres Hall UTK,D,Claude Sonnet 4.5,.,.
+Brown Hall,D,Gemini 2.5 Pro,Chipotle Mexican Grill,Incorrect
+Brown Hall,D,Claude Sonnet 4.5,.,.
+Google Images 1,D,Gemini 2.5 Pro,"Sather Tower, UC Berkeley",Incorrect
+Google Images 1,D,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 2,D,Gemini 2.5 Pro,11A Klempererstra 01069 Dresden Germany,Incorrect
+Google Images 2,D,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 3,D,Gemini 2.5 Pro,A parking lot of a park,Incorrect
+Google Images 3,D,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 4,D,Gemini 2.5 Pro,Unable,Incorrect
+Google Images 4,D,Claude Sonnet 4.5,Unable,Incorrect
+Google Images 5,D,Gemini 2.5 Pro,Unable,Incorrect
+Google Images 5,D,Claude Sonnet 4.5,.,.
+Google Images 6,D,Gemini 2.5 Pro,"33�27'57.8""N 111�55'26.8""W",.
+Google Images 6,D,Claude Sonnet 4.5,.,.
+Google Images 7,D,Gemini 2.5 Pro,.,.
+Google Images 7,D,Claude Sonnet 4.5,"California Street, Berkeley, CA",.
 Gyeongbokgung,D,Gemini 2.5 Pro,"Diamond Head, Oahu, Hawaii",Incorrect
 Gyeongbokgung,D,Claude Sonnet 4.5,.,.
+1,E,Gemini 2.5 Pro,.,.
+1,E,Claude Sonnet 4.5,.,.
+2,E,Gemini 2.5 Pro,.,.
+2,E,Claude Sonnet 4.5,.,.
+3,E,Gemini 2.5 Pro,.,.
+3,E,Claude Sonnet 4.5,.,.
+4,E,Gemini 2.5 Pro,.,.
+4,E,Claude Sonnet 4.5,.,.
+5,E,Gemini 2.5 Pro,.,.
+5,E,Claude Sonnet 4.5,.,.
+6,E,Gemini 2.5 Pro,.,.
+6,E,Claude Sonnet 4.5,.,.
+7,E,Gemini 2.5 Pro,.,.
+7,E,Claude Sonnet 4.5,.,.
+8,E,Gemini 2.5 Pro,.,.
+8,E,Claude Sonnet 4.5,.,.
+9,E,Gemini 2.5 Pro,.,.
+9,E,Claude Sonnet 4.5,.,.
+10,E,Gemini 2.5 Pro,.,.
+10,E,Claude Sonnet 4.5,.,.
+11,E,Gemini 2.5 Pro,.,.
+11,E,Claude Sonnet 4.5,.,.
+12,E,Gemini 2.5 Pro,.,.
+12,E,Claude Sonnet 4.5,.,.
+13,E,Gemini 2.5 Pro,.,.
+13,E,Claude Sonnet 4.5,.,.
+14,E,Gemini 2.5 Pro,.,.
+14,E,Claude Sonnet 4.5,.,.
+15,E,Gemini 2.5 Pro,.,.
+15,E,Claude Sonnet 4.5,.,.
+16,E,Gemini 2.5 Pro,.,.
+16,E,Claude Sonnet 4.5,.,.
+18,E,Gemini 2.5 Pro,.,.
+18,E,Claude Sonnet 4.5,.,.
+19,E,Gemini 2.5 Pro,.,.
+19,E,Claude Sonnet 4.5,.,.
+23,E,Gemini 2.5 Pro,.,.
+23,E,Claude Sonnet 4.5,.,.
+24,E,Gemini 2.5 Pro,.,.
+24,E,Claude Sonnet 4.5,.,.
+25,E,Gemini 2.5 Pro,.,.
+25,E,Claude Sonnet 4.5,.,.
+26,E,Gemini 2.5 Pro,.,.
+26,E,Claude Sonnet 4.5,.,.
+27,E,Gemini 2.5 Pro,.,.
+27,E,Claude Sonnet 4.5,.,.
+40,E,Gemini 2.5 Pro,.,.
+40,E,Claude Sonnet 4.5,.,.
+41,E,Gemini 2.5 Pro,.,.
+41,E,Claude Sonnet 4.5,.,.
+42,E,Gemini 2.5 Pro,.,.
+42,E,Claude Sonnet 4.5,.,.
+43,E,Gemini 2.5 Pro,.,.
+43,E,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,E,Gemini 2.5 Pro,.,.
+Ayres Hall UTK,E,Claude Sonnet 4.5,.,.
+Brown Hall,E,Gemini 2.5 Pro,.,.
+Brown Hall,E,Claude Sonnet 4.5,.,.
+Google Images 1,E,Gemini 2.5 Pro,.,.
+Google Images 1,E,Claude Sonnet 4.5,.,.
+Google Images 2,E,Gemini 2.5 Pro,.,.
+Google Images 2,E,Claude Sonnet 4.5,.,.
+Google Images 3,E,Gemini 2.5 Pro,.,.
+Google Images 3,E,Claude Sonnet 4.5,.,.
+Google Images 4,E,Gemini 2.5 Pro,.,.
+Google Images 4,E,Claude Sonnet 4.5,.,.
+Google Images 5,E,Gemini 2.5 Pro,.,.
+Google Images 5,E,Claude Sonnet 4.5,.,.
+Google Images 6,E,Gemini 2.5 Pro,.,.
+Google Images 6,E,Claude Sonnet 4.5,.,.
+Google Images 7,E,Gemini 2.5 Pro,.,.
+Google Images 7,E,Claude Sonnet 4.5,.,.
 Gyeongbokgung,E,Gemini 2.5 Pro,.,.
 Gyeongbokgung,E,Claude Sonnet 4.5,.,.
+1,F,Gemini 2.5 Pro,.,.
+1,F,Claude Sonnet 4.5,.,.
+2,F,Gemini 2.5 Pro,.,.
+2,F,Claude Sonnet 4.5,.,.
+3,F,Gemini 2.5 Pro,.,.
+3,F,Claude Sonnet 4.5,.,.
+4,F,Gemini 2.5 Pro,.,.
+4,F,Claude Sonnet 4.5,.,.
+5,F,Gemini 2.5 Pro,.,.
+5,F,Claude Sonnet 4.5,.,.
+6,F,Gemini 2.5 Pro,.,.
+6,F,Claude Sonnet 4.5,.,.
+7,F,Gemini 2.5 Pro,.,.
+7,F,Claude Sonnet 4.5,.,.
+8,F,Gemini 2.5 Pro,.,.
+8,F,Claude Sonnet 4.5,.,.
+9,F,Gemini 2.5 Pro,.,.
+9,F,Claude Sonnet 4.5,.,.
+10,F,Gemini 2.5 Pro,.,.
+10,F,Claude Sonnet 4.5,.,.
+11,F,Gemini 2.5 Pro,.,.
+11,F,Claude Sonnet 4.5,.,.
+12,F,Gemini 2.5 Pro,.,.
+12,F,Claude Sonnet 4.5,.,.
+13,F,Gemini 2.5 Pro,.,.
+13,F,Claude Sonnet 4.5,.,.
+14,F,Gemini 2.5 Pro,.,.
+14,F,Claude Sonnet 4.5,.,.
+15,F,Gemini 2.5 Pro,.,.
+15,F,Claude Sonnet 4.5,.,.
+16,F,Gemini 2.5 Pro,.,.
+16,F,Claude Sonnet 4.5,.,.
+18,F,Gemini 2.5 Pro,.,.
+18,F,Claude Sonnet 4.5,.,.
+19,F,Gemini 2.5 Pro,.,.
+19,F,Claude Sonnet 4.5,.,.
+23,F,Gemini 2.5 Pro,.,.
+23,F,Claude Sonnet 4.5,.,.
+24,F,Gemini 2.5 Pro,.,.
+24,F,Claude Sonnet 4.5,.,.
+25,F,Gemini 2.5 Pro,.,.
+25,F,Claude Sonnet 4.5,.,.
+26,F,Gemini 2.5 Pro,.,.
+26,F,Claude Sonnet 4.5,.,.
+27,F,Gemini 2.5 Pro,.,.
+27,F,Claude Sonnet 4.5,.,.
+40,F,Gemini 2.5 Pro,.,.
+40,F,Claude Sonnet 4.5,.,.
+41,F,Gemini 2.5 Pro,.,.
+41,F,Claude Sonnet 4.5,.,.
+42,F,Gemini 2.5 Pro,.,.
+42,F,Claude Sonnet 4.5,.,.
+43,F,Gemini 2.5 Pro,.,.
+43,F,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,F,Gemini 2.5 Pro,.,.
+Ayres Hall UTK,F,Claude Sonnet 4.5,.,.
+Brown Hall,F,Gemini 2.5 Pro,.,.
+Brown Hall,F,Claude Sonnet 4.5,.,.
+Google Images 1,F,Gemini 2.5 Pro,.,.
+Google Images 1,F,Claude Sonnet 4.5,.,.
+Google Images 2,F,Gemini 2.5 Pro,.,.
+Google Images 2,F,Claude Sonnet 4.5,.,.
+Google Images 3,F,Gemini 2.5 Pro,.,.
+Google Images 3,F,Claude Sonnet 4.5,.,.
+Google Images 4,F,Gemini 2.5 Pro,.,.
+Google Images 4,F,Claude Sonnet 4.5,.,.
+Google Images 5,F,Gemini 2.5 Pro,.,.
+Google Images 5,F,Claude Sonnet 4.5,.,.
+Google Images 6,F,Gemini 2.5 Pro,.,.
+Google Images 6,F,Claude Sonnet 4.5,.,.
+Google Images 7,F,Gemini 2.5 Pro,.,.
+Google Images 7,F,Claude Sonnet 4.5,.,.
 Gyeongbokgung,F,Gemini 2.5 Pro,.,.
 Gyeongbokgung,F,Claude Sonnet 4.5,.,.
+1,None,Gemini 2.5 Pro,"St. Paul, Minnesota (44.978857, -93.167825)",Correct
+1,None,Claude Sonnet 4.5,Unable,Incorrect
+2,None,Gemini 2.5 Pro,"West Adams Street, Chicago (41.87948, -87.63421)",Incorrect
+2,None,Claude Sonnet 4.5,"LaSalle Street, Chicago",Correct
+3,None,Gemini 2.5 Pro,"Intersection of West Lake Street and South Ashland Avenue in Chicago, Illinois",Correct
+3,None,Claude Sonnet 4.5,Chicago Near West Side - Along Cermak Road,Correct
+4,None,Gemini 2.5 Pro,"1836 Country Store in Wilmington, Vermont, USA.",Correct
+4,None,Claude Sonnet 4.5,"Vermont Country Store, Weston/Rockington Vermont",Incorrect
+5,None,Gemini 2.5 Pro,"Granville Road in Tsim Sha Tsui, Kowloon, Hong Kong.",Correct
+5,None,Claude Sonnet 4.5,"Tsim Sha Tsui District, Hong Kong",Correct
+6,None,Gemini 2.5 Pro,"East 42nd Street and Madison Avenue in Manhattan, New York City",Correct
+6,None,Claude Sonnet 4.5,"42nd Street and Madison Avenue in Midtown Manhattan, New York City",Correct
+7,None,Gemini 2.5 Pro,"Granville Street, Vancouver, British Columbia, Canada.",Correct
+7,None,Claude Sonnet 4.5,"Granville Street in Vancouver, British Columbia, Canada",Correct
+8,None,Gemini 2.5 Pro,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
+8,None,Claude Sonnet 4.5,"Main Market Square (Rynek Główny) in Kraków, Poland.",Correct
+9,None,Gemini 2.5 Pro,"Commonwealth Avenue Bridge in Boston, Massachusetts, looking east towards the Kenmore/Back Bay neighborhood",Incorrect
+9,None,Claude Sonnet 4.5,Commonwealth Avenue in the Back Bay neighborhood,Incorrect
+10,None,Gemini 2.5 Pro,"Pret a Manger located at St Martin-in-the-Fields, on the northeast corner of Trafalgar Square in London, England",Correct
+10,None,Claude Sonnet 4.5,"Pret A Manger on the Champs-Élysées in Paris, France",Incorrect
+11,None,Gemini 2.5 Pro,"Clonmel, County Tipperary, Ireland River Suir",Incorrect
+11,None,Claude Sonnet 4.5,"Garavogue River, Sligo Town, County Sligo, Ireland",Incorrect
+12,None,Gemini 2.5 Pro,London Stansted Airport (STN) in the United Kingdom,Correct
+12,None,Claude Sonnet 4.5,"Barcelona-El Prat Airport (BCN), Vueling's main hub",Incorrect
+13,None,Gemini 2.5 Pro,"Pike Street in Seattle, Washington",Correct
+13,None,Claude Sonnet 4.5,"Pike Place Market area, Seattle, Washington",Correct
+14,None,Gemini 2.5 Pro,"Piazza San Marco in Florence, Italy Church of San Marco",Correct
+14,None,Claude Sonnet 4.5,.Ognissanti Church (Chiesa di Ognissanti) in Florence,Incorrect
+15,None,Gemini 2.5 Pro,"Staple Hill, Bristol, England",Correct
+15,None,Claude Sonnet 4.5,Yorkshire or Northern England,Incorrect
+16,None,Gemini 2.5 Pro,"Davie Village, Vancouver",Correct
+16,None,Claude Sonnet 4.5,"Vancouver, British Columbia, specifically in the Davie Village neighborhood",Correct
+18,None,Gemini 2.5 Pro,Primatial Cathedral of Bogotá,Correct
+18,None,Claude Sonnet 4.5,"Basilica del Señor de los Milagros (Basilica of Our Lord of Miracles) in Buga, Colombia",Incorrect
+19,None,Gemini 2.5 Pro,Washington Square Park in New York City,Correct
+19,None,Claude Sonnet 4.5,"Washington Square Park in Philadelphia, Pennsylvania",Incorrect
+23,None,Gemini 2.5 Pro,"Chiswick High Road in the Chiswick district of West London, UK",Correct
+23,None,Claude Sonnet 4.5,Stroud Green/Finsbury Park area of the London Borough of Haringey or Islington,Incorrect
+24,None,Gemini 2.5 Pro,"4th Avenue South at the intersection with Terrace Street, in the Pioneer Square neighborhood of Seattle, Washington",Correct
+24,None,Claude Sonnet 4.5,"Milwaukee, Wisconsin, specifically in the Historic Third Ward or downtown area",Incorrect
+25,None,Gemini 2.5 Pro,"River Thames in Henley-on-Thames, Oxfordshire, England",Correct
+25,None,Claude Sonnet 4.5,"Kingston upon Thames, London",Correct
+26,None,Gemini 2.5 Pro,"Stevenage Clock Tower, Town Square of Stevenage, Hertfordshire, England",Correct
+26,None,Claude Sonnet 4.5,"Steele, a district of Essen, Germany",Incorrect
+27,None,Gemini 2.5 Pro,"Stearns Wharf in Santa Barbara, California",Correct
+27,None,Claude Sonnet 4.5,"Southern California location, most likely between Santa Barbara and San Diego",Incorrect
+40,None,Gemini 2.5 Pro,"M Street NW, near the intersection with 15th Street NW, in the Logan Circle/Dupont Circle neighborhood of Washington, D.C.",Incorrect
+40,None,Claude Sonnet 4.5,"potentially be a downtown area in a mid-sized American city with historic preservation, possibly in the Mid-Atlantic or similar region",Incorrect
+41,None,Gemini 2.5 Pro,"Salisbury, Wiltshire, England",Correct
+41,None,Claude Sonnet 4.5,"Bath, Somerset, England",Incorrect
+42,None,Gemini 2.5 Pro,"Estación Central borough of Santiago, Chile",Correct
+42,None,Claude Sonnet 4.5,highway rest stop or terminal facility somewhere along Chile's main north-south highway system,Incorrect
+43,None,Gemini 2.5 Pro,"Wellesley Road in Brentford, West London, UK",Correct
+43,None,Claude Sonnet 4.5,Brentford area of West London,Correct
+Ayres Hall UTK,None,Gemini 2.5 Pro,"Ayres Hall at the University of Tennessee, Knoxville (UTK",Correct
+Ayres Hall UTK,None,Claude Sonnet 4.5,"Ayres Hall at the University of Tennessee, Knoxville",Correct
+Brown Hall,None,Gemini 2.5 Pro,"Brown Hall at the University of Tennessee, Knoxville (UTK)",Correct
+Brown Hall,None,Claude Sonnet 4.5,"college/university dorm room, likely at the University of Tennessee, Knoxville",Incorrect
+Google Images 1,None,Gemini 2.5 Pro,"World's Fair Park in Knoxville, Tennessee.",Correct
+Google Images 1,None,Claude Sonnet 4.5,"Clinch Avenue World's Fair Park in Knoxville, Tennessee",Correct
+Google Images 2,None,Gemini 2.5 Pro,"Kavalierstrae street, Niederschnhausen district, Berlin Germany",Incorrect
+Google Images 2,None,Claude Sonnet 4.5,"Berlin, Germany",Incorrect
+Google Images 3,None,Gemini 2.5 Pro,"Gardens of Versailles in Versailles, France",Correct
+Google Images 3,None,Claude Sonnet 4.5,Palace of Versailles gardens,Correct
+Google Images 4,None,Gemini 2.5 Pro,"SS1 Via Aurelia, Tuscany, Italy",Correct
+Google Images 4,None,Claude Sonnet 4.5,"SS1 Via Aurelia, Tuscany, Italy",Correct
+Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
+Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San José, Costa Rica",Incorrect
+Google Images 6,None,Gemini 2.5 Pro,"corner of Parkway Drive and Pearl Street in Bakersfield, California",Incorrect
+Google Images 6,None,Claude Sonnet 4.5,Coachella Valley in California,Incorrect
+Google Images 7,None,Gemini 2.5 Pro,"Campus Drive, Foothill College in Los Altos Hills, California.",Incorrect
+Google Images 7,None,Claude Sonnet 4.5,"Flint Avenue in Long Beach, California",Incorrect
 Gyeongbokgung,None,Gemini 2.5 Pro,"Gyeongbokgung Palace in Seoul, South Korea",Correct
 Gyeongbokgung,None,Claude Sonnet 4.5,"Gyeongbokgung Palace  in Seoul, South Korea",Correct
