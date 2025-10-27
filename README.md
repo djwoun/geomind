@@ -7,7 +7,15 @@ the location that the image was taken.
 ## Work so Far
 - We have compiled a dataset of 37 images from Microsoft's COCO dataset and Google Maps streetview images
 - We tested Gemini Pro 2.5 and Claude Sonnet 2.5's accuracy on these images
-- We are created 6 variations of each image (4 done so far)
+- We have created 4/6 variations that we will test
+
+### Variations to Test
+- In Gemini Nanobanana: "Blur the image so the location is unidentifiable"
+- Blur entire image 10%
+- Blur entire image 20%
+- Blur entire image 30%
+- Blur any text in the image
+- Blur personally/publicly identifiable objects in the image
 
 ## Team Members
 - Dong Jun Woun
