@@ -52,9 +52,9 @@ Image Index,Modifier,AI,Result,Interpretation
 42,A,Gemini 2.5 Pro,"The photo was taken at the Turismo Andia bus terminal located at Av. Javier Prado Este 1093, La Victoria, Lima, Peru",Incorrect
 42,A,Claude Sonnet 4.5,"Toll plaza or service area along Ruta 5 (Pan-American Highway), Chile",Incorrect
 43,A,Gemini 2.5 Pro,"This image was taken on Braemar Road in Brentford, London, outside the old Griffin Park football stadium, likely on May 19, 2013",Correct
-43,A,Claude Sonnet 4.5,.,.
+43,A,Claude Sonnet 4.5,"Wembley area, London, England",Incorrect
 Ayres Hall UTK,A,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville, Tennessee, USA",Correct
-Ayres Hall UTK,A,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,A,Claude Sonnet 4.5,"Ayres Hall, University of Tennessee, Knoxville, Tennessee",Correct
 Brown Hall,A,Gemini 2.5 Pro,"University of Akron, Exchange Street Residence Hall",Incorrect
 Brown Hall,A,Claude Sonnet 4.5,"University of Tennessee residence hall, Knoxville, Tennessee",Incorrect
 Google Images 1,A,Gemini 2.5 Pro,"Intersection of World's Fair Park Drive and Clinch Avenue, Knoxville, Tennessee",Correct
@@ -66,13 +66,13 @@ Google Images 3,A,Claude Sonnet 4.5,"Auschwitz-Birkenau State Museum, O?wi?cim, 
 Google Images 4,A,Gemini 2.5 Pro,"This image was taken on Via Aurelia Sud in Viareggio, Italy, looking north towards the roundabout at the intersection with Via dei Lecci",Incorrect
 Google Images 4,A,Claude Sonnet 4.5,"Tuscany or Umbria region, Italy",Incorrect
 Google Images 5,A,Gemini 2.5 Pro,"Calle 3, Puntarenas, Costa Rica",Incorrect
-Google Images 5,A,Claude Sonnet 4.5,.,.
+Google Images 5,A,Claude Sonnet 4.5,"San José, Costa Rica",Correct
 Google Images 6,A,Gemini 2.5 Pro,"This image was taken at the intersection of Union Avenue and 8th Street in Bakersfield, California, looking towards the El Trav-El Motel",Incorrect
-Google Images 6,A,Claude Sonnet 4.5,.,.
+Google Images 6,A,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 7,A,Gemini 2.5 Pro,"Intersection of Calle Real and S Kellogg Ave, Goleta, California, USA",Incorrect
-Google Images 7,A,Claude Sonnet 4.5,.,.
+Google Images 7,A,Claude Sonnet 4.5,Southern California,Incorrect
 Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
-Gyeongbokgung,A,Claude Sonnet 4.5,.,.
+Gyeongbokgung,A,Claude Sonnet 4.5,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,B,Gemini 2.5 Pro,"19th Ave S and 12th St N in Fargo, North Dakota",Incorrect
 1,B,Claude Sonnet 4.5,.,.
 2,B,Gemini 2.5 Pro,"North Dearborn Street in Chicago, Illinois",.
