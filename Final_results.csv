@@ -369,79 +369,79 @@ Google Images 7,E,Gemini 2.5 Pro,"The intersection of Peter Behr Drive and Civic
 Google Images 7,E,Claude Sonnet 4.5,.,.
 Gyeongbokgung,E,Gemini 2.5 Pro,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea.",Correct
 Gyeongbokgung,E,Claude Sonnet 4.5,.,.
-1,F,Gemini 2.5 Pro,.,.
+1,F,Gemini 2.5 Pro,"The intersection of Grand Avenue and 13th Street, Ames, Iowa.",Incorrect
 1,F,Claude Sonnet 4.5,.,.
-2,F,Gemini 2.5 Pro,.,.
+2,F,Gemini 2.5 Pro,"Looking east on West Jackson Boulevard from the intersection with South LaSalle Street, Chicago, Illinois.",Correct
 2,F,Claude Sonnet 4.5,.,.
-3,F,Gemini 2.5 Pro,.,.
+3,F,Gemini 2.5 Pro,"The photo was taken at the intersection of West Cermak Road and South Archer Avenue in Chicago, Illinois, looking northeast.",Correct
 3,F,Claude Sonnet 4.5,.,.
-4,F,Gemini 2.5 Pro,.,.
+4,F,Gemini 2.5 Pro,"The 1836 Country Store, Stowe, Vermont, USA.",Correct
 4,F,Claude Sonnet 4.5,.,.
-5,F,Gemini 2.5 Pro,.,.
+5,F,Gemini 2.5 Pro,"The intersection of Sai Yeung Choi Street South and Nelson Street, Mong Kok, Hong Kong.",Incorrect
 5,F,Claude Sonnet 4.5,.,.
-6,F,Gemini 2.5 Pro,.,.
+6,F,Gemini 2.5 Pro,"The northwest corner of the intersection of East 42nd Street and Madison Avenue in New York City, looking east.",Correct
 6,F,Claude Sonnet 4.5,.,.
-7,F,Gemini 2.5 Pro,.,.
+7,F,Gemini 2.5 Pro,"The intersection of West Hastings Street and Seymour Street, Vancouver, British Columbia, Canada.",Correct
 7,F,Claude Sonnet 4.5,.,.
-8,F,Gemini 2.5 Pro,.,.
+8,F,Gemini 2.5 Pro,"Main Market Square (Rynek Główny), Kraków, Poland.",Incorrect
 8,F,Claude Sonnet 4.5,.,.
-9,F,Gemini 2.5 Pro,.,.
+9,F,Gemini 2.5 Pro,"View from the Massachusetts Avenue bridge, looking southeast at the Burrage Mansion on the corner of Commonwealth Avenue in Boston, Massachusetts.",Correct
 9,F,Claude Sonnet 4.5,.,.
-10,F,Gemini 2.5 Pro,.,.
+10,F,Gemini 2.5 Pro,"The specific location is outside the Social Bite café at 89 St Vincent Street, Glasgow, Scotland.",Incorrect
 10,F,Claude Sonnet 4.5,.,.
-11,F,Gemini 2.5 Pro,.,.
+11,F,Gemini 2.5 Pro,"The Quay, Clonmel, County Tipperary, Ireland.",Incorrect
 11,F,Claude Sonnet 4.5,.,.
-12,F,Gemini 2.5 Pro,.,.
+12,F,Gemini 2.5 Pro,"London Stansted Airport (STN), England, UK.",Correct
 12,F,Claude Sonnet 4.5,.,.
-13,F,Gemini 2.5 Pro,.,.
+13,F,Gemini 2.5 Pro,"Looking east on Pike Street from 1st Avenue in Seattle, Washington.",Correct
 13,F,Claude Sonnet 4.5,.,.
-14,F,Gemini 2.5 Pro,.,.
+14,F,Gemini 2.5 Pro,"Piazza Ognissanti, Florence, Italy.",Correct
 14,F,Claude Sonnet 4.5,.,.
-15,F,Gemini 2.5 Pro,.,.
+15,F,Gemini 2.5 Pro,"The junction of Baildon Road, Browgate, and Northgate in Baildon, Shipley, West Yorkshire, England.",Incorrect
 15,F,Claude Sonnet 4.5,.,.
-16,F,Gemini 2.5 Pro,.,.
+16,F,Gemini 2.5 Pro,"The intersection of Davie Street and Bute Street, Vancouver, British Columbia, Canada.",Correct
 16,F,Claude Sonnet 4.5,.,.
-18,F,Gemini 2.5 Pro,.,.
+18,F,Gemini 2.5 Pro,"Plaza de Bolívar, facing the Cathedral Basilica of the Immaculate Conception, in Bogotá, Colombia.",Incorrect
 18,F,Claude Sonnet 4.5,.,.
-19,F,Gemini 2.5 Pro,.,.
+19,F,Gemini 2.5 Pro,"Washington Square Park, New York City, New York.",Correct
 19,F,Claude Sonnet 4.5,.,.
-23,F,Gemini 2.5 Pro,.,.
+23,F,Gemini 2.5 Pro,"The photograph was taken on Uxbridge Road in Ealing, London, looking west towards the Daniel department store.",Incorrect
 23,F,Claude Sonnet 4.5,.,.
-24,F,Gemini 2.5 Pro,.,.
+24,F,Gemini 2.5 Pro,"4th Avenue South and Terrace Street, Seattle, Washington.",Correct
 24,F,Claude Sonnet 4.5,.,.
-25,F,Gemini 2.5 Pro,.,.
+25,F,Gemini 2.5 Pro,"Caversham Pier, Reading, England.",Incorrect
 25,F,Claude Sonnet 4.5,.,.
-26,F,Gemini 2.5 Pro,.,.
+26,F,Gemini 2.5 Pro,"The photograph was taken in the Town Square of Stevenage, Hertfordshire, England.",Correct
 26,F,Claude Sonnet 4.5,.,.
-27,F,Gemini 2.5 Pro,.,.
+27,F,Gemini 2.5 Pro,"Goleta Pier, Goleta, California",Incorrect
 27,F,Claude Sonnet 4.5,.,.
-40,F,Gemini 2.5 Pro,.,.
+40,F,Gemini 2.5 Pro,"On the south side of G Street NW, just west of the intersection with 10th Street NW, Washington, D.C.",Incorrect
 40,F,Claude Sonnet 4.5,.,.
-41,F,Gemini 2.5 Pro,.,.
+41,F,Gemini 2.5 Pro,"The photograph was taken on Castle Street in Salisbury, Wiltshire, UK, looking north towards the A36 roundabout.",Correct
 41,F,Claude Sonnet 4.5,.,.
-42,F,Gemini 2.5 Pro,.,.
+42,F,Gemini 2.5 Pro,"The photo was taken at the Terminal de Buses de Talca, in Talca, Chile, looking across the street at the corner of Calle 12 Ote and Calle 2 Sur.",Incorrect
 42,F,Claude Sonnet 4.5,.,.
-43,F,Gemini 2.5 Pro,.,.
+43,F,Gemini 2.5 Pro,"Braemar Road, at the corner of Neale's Road, outside Griffin Park stadium in Brentford, London, UK.",Correct
 43,F,Claude Sonnet 4.5,.,.
-Ayres Hall UTK,F,Gemini 2.5 Pro,.,.
+Ayres Hall UTK,F,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville.",Correct
 Ayres Hall UTK,F,Claude Sonnet 4.5,.,.
-Brown Hall,F,Gemini 2.5 Pro,.,.
+Brown Hall,F,Gemini 2.5 Pro,"Stokely Hall, University of Tennessee, Knoxville",Correct
 Brown Hall,F,Claude Sonnet 4.5,.,.
-Google Images 1,F,Gemini 2.5 Pro,.,.
+Google Images 1,F,Gemini 2.5 Pro,"World's Fair Park Drive, Knoxville, Tennessee, USA.",Correct
 Google Images 1,F,Claude Sonnet 4.5,.,.
-Google Images 2,F,Gemini 2.5 Pro,.,.
+Google Images 2,F,Gemini 2.5 Pro,"Barlachstraße at the intersection with Kirschweg, in the Siedlung Reform district of Magdeburg, Germany.",Incorrect
 Google Images 2,F,Claude Sonnet 4.5,.,.
-Google Images 3,F,Gemini 2.5 Pro,.,.
+Google Images 3,F,Gemini 2.5 Pro,"Gardens of the Grand Trianon, Palace of Versailles, Versailles, France.",Correct
 Google Images 3,F,Claude Sonnet 4.5,.,.
-Google Images 4,F,Gemini 2.5 Pro,.,.
+Google Images 4,F,Gemini 2.5 Pro,"Via Aurelia Nord, 26, 56122 Pisa PI, Italy.",Correct
 Google Images 4,F,Claude Sonnet 4.5,.,.
-Google Images 5,F,Gemini 2.5 Pro,.,.
+Google Images 5,F,Gemini 2.5 Pro,"Intersection of C. 132 and C. 69, San Vicente, Moravia, San José, Costa Rica.",Correct
 Google Images 5,F,Claude Sonnet 4.5,.,.
-Google Images 6,F,Gemini 2.5 Pro,.,.
+Google Images 6,F,Gemini 2.5 Pro,"The corner of N Parkway Dr and W Olive Ave in Fresno, California.",Correct
 Google Images 6,F,Claude Sonnet 4.5,.,.
-Google Images 7,F,Gemini 2.5 Pro,.,.
+Google Images 7,F,Gemini 2.5 Pro,"The intersection of Peter Behr Drive and Civic Center Drive, San Rafael, California.",Incorrect
 Google Images 7,F,Claude Sonnet 4.5,.,.
-Gyeongbokgung,F,Gemini 2.5 Pro,.,.
+Gyeongbokgung,F,Gemini 2.5 Pro,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea.",Correct
 Gyeongbokgung,F,Claude Sonnet 4.5,.,.
 1,None,Gemini 2.5 Pro,"St. Paul, Minnesota (44.978857, -93.167825)",Correct
 1,None,Claude Sonnet 4.5,Unable,Incorrect
