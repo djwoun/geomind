@@ -148,45 +148,45 @@ Google Images 7,B,Claude Sonnet 4.5,.,.
 Gyeongbokgung,B,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,B,Claude Sonnet 4.5,.,.
 1,C,Gemini 2.5 Pro,Unable,Incorrect
-1,C,Claude Sonnet 4.5,.,.
+1,C,Claude Sonnet 4.5,Unable,Incorrect
 2,C,Gemini 2.5 Pro,"Manhattan Bridge from DUMBO, Brooklyn, New York City",.
-2,C,Claude Sonnet 4.5,.,.
+2,C,Claude Sonnet 4.5,"Times Square, New York City, New York",Incorrect
 3,C,Gemini 2.5 Pro,The specific location is I-90/I-94 heading to Chicago,.
-3,C,Claude Sonnet 4.5,.,.
+3,C,Claude Sonnet 4.5,"Ventura County Courthouse, Downtown Ventura, California",Incorrect
 4,C,Gemini 2.5 Pro,Pumpkin Patch,.
-4,C,Claude Sonnet 4.5,.,.
+4,C,Claude Sonnet 4.5,Unable,Incorrect
 5,C,Gemini 2.5 Pro,Taiwan,.
-5,C,Claude Sonnet 4.5,.,.
+5,C,Claude Sonnet 4.5,Unable,Incorrect
 6,C,Gemini 2.5 Pro,Lexington Avenue and 42nd Street,.
-6,C,Claude Sonnet 4.5,.,.
+6,C,Claude Sonnet 4.5,"Transamerica Pyramid, San Fransisco, California",Incorrect
 7,C,Gemini 2.5 Pro,"Vancouver, BC, Canada",.
-7,C,Claude Sonnet 4.5,.,.
+7,C,Claude Sonnet 4.5,"Downtown Toronto, Ontario, Canada",Incorrect
 8,C,Gemini 2.5 Pro,"Rothenburg ob der Tauber, Germany",.
-8,C,Claude Sonnet 4.5,.,.
+8,C,Claude Sonnet 4.5,"Old City of Jerusalem, specifically near Jaffa Gate or Damascus Gate area",Incorrect
 9,C,Gemini 2.5 Pro,Cross Bronx Expressway in New York City,.
-9,C,Claude Sonnet 4.5,.,.
-10,C,Gemini 2.5 Pro,Unable,.
-10,C,Claude Sonnet 4.5,.,.
+9,C,Claude Sonnet 4.5,Unable,Incorrect
+10,C,Gemini 2.5 Pro,Unable,Incorrect
+10,C,Claude Sonnet 4.5,Unable,Incorrect
 11,C,Gemini 2.5 Pro,"River Cam in Cambridge, UK",.
-11,C,Claude Sonnet 4.5,.,.
+11,C,Claude Sonnet 4.5,Unable,Incorrect
 12,C,Gemini 2.5 Pro,"Imperial War Museum, Duxford",.
-12,C,Claude Sonnet 4.5,.,.
+12,C,Claude Sonnet 4.5,"Nullarbor Plain, South Australia/Western Australia border region, Australia",.
 13,C,Gemini 2.5 Pro,"16th Street Mall, Denver, Colorado",Incorrect
-13,C,Claude Sonnet 4.5,.,.
+13,C,Claude Sonnet 4.5,"Sundance Square, Fort Worth, Texas",.
 14,C,Gemini 2.5 Pro,"San Francisco Church in Antigua, Guatemala",Incorrect
-14,C,Claude Sonnet 4.5,.,.
+14,C,Claude Sonnet 4.5,"Mission San José, San Antonio, Texas",.
 15,C,Gemini 2.5 Pro,"Broadway, Cotswolds, UK",Incorrect
-15,C,Claude Sonnet 4.5,.,.
+15,C,Claude Sonnet 4.5,Unable,Incorrect
 16,C,Gemini 2.5 Pro,"Salt Lake City, Utah",Incorrect
-16,C,Claude Sonnet 4.5,.,.
+16,C,Claude Sonnet 4.5,Unable,Incorrect
 18,C,Gemini 2.5 Pro,"Mark's Square, Venice, Italy",.
-18,C,Claude Sonnet 4.5,.,.
+18,C,Claude Sonnet 4.5,Unable,Incorrect
 19,C,Gemini 2.5 Pro,"Erawan Falls, Thailand",Incorrect
-19,C,Claude Sonnet 4.5,.,.
+19,C,Claude Sonnet 4.5,Unable,Incorrect
 23,C,Gemini 2.5 Pro,Unable,Incorrect
-23,C,Claude Sonnet 4.5,.,.
+23,C,Claude Sonnet 4.5,Unable,Incorrect
 24,C,Gemini 2.5 Pro,"11th Ave and W 16th St, New York, NY 10011",Incorrect
-24,C,Claude Sonnet 4.5,.,.
+24,C,Claude Sonnet 4.5,Unable,Incorrect
 25,C,Gemini 2.5 Pro,"Little Venice, London",Incorrect
 25,C,Claude Sonnet 4.5,.,.
 26,C,Gemini 2.5 Pro,"Nara Deer Park, Nara, Japan",Incorrect
@@ -214,13 +214,13 @@ Google Images 3,C,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 4,C,Gemini 2.5 Pro,"Strada Statale 16 Adriatica, 131, Riccione RN, Italy",Incorrect
 Google Images 4,C,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 5,C,Gemini 2.5 Pro,"Main Street, Tiburon, California",Incorrect
-Google Images 5,C,Claude Sonnet 4.5,.,.
+Google Images 5,C,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 6,C,Gemini 2.5 Pro,"Calico Ghost Town Road, Yermo, CA 92398",.
-Google Images 6,C,Claude Sonnet 4.5,.,.
+Google Images 6,C,Claude Sonnet 4.5,"Firdos Square (also known as Paradise Square), Baghdad, Iraq",Incorrect
 Google Images 7,C,Gemini 2.5 Pro,"1800 2nd St, Berkeley, CA 94710, USA",.
-Google Images 7,C,Claude Sonnet 4.5,.,.
+Google Images 7,C,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,C,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
-Gyeongbokgung,C,Claude Sonnet 4.5,.,.
+Gyeongbokgung,C,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,D,Gemini 2.5 Pro,Unable,Incorrect
 1,D,Claude Sonnet 4.5,.,.
 2,D,Gemini 2.5 Pro,Unable,.
@@ -237,7 +237,7 @@ Gyeongbokgung,C,Claude Sonnet 4.5,.,.
 7,D,Claude Sonnet 4.5,.,.
 8,D,Gemini 2.5 Pro,"Mission San Xavier del Bac, Tucson, Arizona",.
 8,D,Claude Sonnet 4.5,.,.
-9,D,Gemini 2.5 Pro,Unable,.
+9,D,Gemini 2.5 Pro,Unable,Incorrect
 9,D,Claude Sonnet 4.5,.,.
 10,D,Gemini 2.5 Pro,Sports Arena or Stadium,.
 10,D,Claude Sonnet 4.5,.,.
