@@ -74,61 +74,61 @@ Google Images 7,A,Claude Sonnet 4.5,Southern California,Incorrect
 Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,A,Claude Sonnet 4.5,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,B,Gemini 2.5 Pro,"19th Ave S and 12th St N in Fargo, North Dakota",Incorrect
-1,B,Claude Sonnet 4.5,.,
+1,B,Claude Sonnet 4.5,Unable,Incorrect
 2,B,Gemini 2.5 Pro,"North Dearborn Street in Chicago, Illinois",.
-2,B,Claude Sonnet 4.5,.,.
+2,B,Claude Sonnet 4.5,"Greenwich Street or a nearby street in Lower Manhattan's Financial District, New York City, looking south toward One World Trade Center",Incorrect
 3,B,Gemini 2.5 Pro,Intersection of South Canal Street and West Roosevelt Road in Chicago,.
-3,B,Claude Sonnet 4.5,.,.
+3,B,Claude Sonnet 4.5,"Along a Chicago expressway (likely I-90/I-94 Dan Ryan or Kennedy Expressway) on the approach to Downtown Chicago, Illinois",Incorrect
 4,B,Gemini 2.5 Pro,"Shirakawa-go, Japan",.
-4,B,Claude Sonnet 4.5,.,.
-5,B,Gemini 2.5 Pro,Hong Kong,.
-5,B,Claude Sonnet 4.5,.,.
-6,B,Gemini 2.5 Pro,"42nd Street and Madison Avenue, New York, NY",.
-6,B,Claude Sonnet 4.5,.,.
-7,B,Gemini 2.5 Pro,"Granville Street, Vancouver, BC, Canada",.
-7,B,Claude Sonnet 4.5,.,.
-8,B,Gemini 2.5 Pro,"Main Market Square, Krakow, Poland",.
-8,B,Claude Sonnet 4.5,.,.
+4,B,Claude Sonnet 4.5,I cannot determine the specific location from this image with confidence due to the image quality and lack of distinctive identifying features.,Incorrect
+5,B,Gemini 2.5 Pro,Hong Kong,Correct
+5,B,Claude Sonnet 4.5,"Dotonbori, Osaka, Japan",Incorrect
+6,B,Gemini 2.5 Pro,"42nd Street and Madison Avenue, New York, NY",Correct
+6,B,Claude Sonnet 4.5,"Midtown Manhattan, New York City, near the Chrysler Building (approximately 42nd Street and Lexington Avenue area)",Incorrect
+7,B,Gemini 2.5 Pro,"Granville Street, Vancouver, BC, Canada",Correct
+7,B,Claude Sonnet 4.5,"This image was taken in downtown Toronto, Ontario, Canada, likely at an intersection in the Financial District or nearby downtown area.",Incorrect
+8,B,Gemini 2.5 Pro,"Main Market Square, Krakow, Poland",Correct
+8,B,Claude Sonnet 4.5,"Main Market Square (Rynek G?ówny), Kraków, Poland",Correct
 9,B,Gemini 2.5 Pro,"Massachusetts Avenue, intersection of Memorial Drive, Cambridge, Massachusetts",.
-9,B,Claude Sonnet 4.5,.,.
+9,B,Claude Sonnet 4.5,Unable,Incorrect
 10,B,Gemini 2.5 Pro,London England,.
-10,B,Claude Sonnet 4.5,.,.
+10,B,Claude Sonnet 4.5,Unable,Incorrect
 11,B,Gemini 2.5 Pro,"River Avon in Stratford-upon-Avon, England",.
-11,B,Claude Sonnet 4.5,.,.
+11,B,Claude Sonnet 4.5,Unable,Incorrect
 12,B,Gemini 2.5 Pro,Airport Terminal,.
-12,B,Claude Sonnet 4.5,.,.
+12,B,Claude Sonnet 4.5,Unable,Incorrect
 13,B,Gemini 2.5 Pro,"Pioneer Square, Seattle, WA",Correct
-13,B,Claude Sonnet 4.5,.,.
+13,B,Claude Sonnet 4.5,"Downtown Atlanta, Georgia - Peachtree Street/Centennial Olympic Park area",Incorrect
 14,B,Gemini 2.5 Pro,"Basilica di San Pietro, Perugia, Italy",Incorrect
-14,B,Claude Sonnet 4.5,.,.
+14,B,Claude Sonnet 4.5," Chiesa di San Francesco d'Assisi (Church of Saint Francis of Assisi), Palermo, Sicily, Italy",Incorrect
 15,B,Gemini 2.5 Pro,"Pateley Bridge, North Yorkshire, UK",Incorrect
-15,B,Claude Sonnet 4.5,.,.
+15,B,Claude Sonnet 4.5,I cannot determine the specific location from this image with sufficient confidence due to the image blur and lack of clearly readable identifying features.,Incorrect
 16,B,Gemini 2.5 Pro,"Vancouver, British Columbia, Canada",Correct
-16,B,Claude Sonnet 4.5,.,.
+16,B,Claude Sonnet 4.5,Unable to determine from the available visual information,Incorrect
 18,B,Gemini 2.5 Pro,"Plaza de Bolivar, Bogota, Colombia",.
-18,B,Claude Sonnet 4.5,.,.
+18,B,Claude Sonnet 4.5,Unable to determine with certainty from the provided image due to insufficient visible detail.,Incorrect
 19,B,Gemini 2.5 Pro,"Washington Square Park, New York City",Correct
-19,B,Claude Sonnet 4.5,.,.
+19,B,Claude Sonnet 4.5,"Washington Square Park, Greenwich Village, New York City, New York, USA",Correct
 23,B,Gemini 2.5 Pro,"A307 in Teddington, London",Incorrect
-23,B,Claude Sonnet 4.5,.,.
+23,B,Claude Sonnet 4.5," London, United Kingdom (exact street/area cannot be determined from this blurred image)",Correct
 24,B,Gemini 2.5 Pro,"Manhattan Bridge Arch and Plaza, Brooklyn, NY",Incorrect
-24,B,Claude Sonnet 4.5,.,.
+24,B,Claude Sonnet 4.5,Unable,Incorrect
 25,B,Gemini 2.5 Pro,"Folly Bridge, Oxford",Incorrect
-25,B,Claude Sonnet 4.5,.,.
+25,B,Claude Sonnet 4.5,Unable,Incorrect
 26,B,Gemini 2.5 Pro,"Marktplatz, Reutlingen, Germany",Incorrect
-26,B,Claude Sonnet 4.5,.,.
+26,B,Claude Sonnet 4.5,"Ritsumeikan Asia Pacific University (APU), Beppu, Oita, Japan",Incorrect
 27,B,Gemini 2.5 Pro,"Stearns Wharf, Santa Barbara, California",Correct
-27,B,Claude Sonnet 4.5,.,.
+27,B,Claude Sonnet 4.5,"Manhattan Beach Pier, Manhattan Beach, California (or possibly Oceanside Pier, California)",Incorrect
 40,B,Gemini 2.5 Pro,"Annapolis, Maryland",.
-40,B,Claude Sonnet 4.5,.,.
+40,B,Claude Sonnet 4.5,Unable,Incorrect
 41,B,Gemini 2.5 Pro,"Michael's Hill in Bristol, UK",Incorrect
-41,B,Claude Sonnet 4.5,.,.
+41,B,Claude Sonnet 4.5,"Málaga, Spain - likely at or near a central transit hub in the historic city center",Incorrect
 42,B,Gemini 2.5 Pro,"bus station in San Cristobal de las Casas, Mexico",Incorrect
-42,B,Claude Sonnet 4.5,.,.
+42,B,Claude Sonnet 4.5,Unable,Incorrect
 43,B,Gemini 2.5 Pro,"London, England",.
-43,B,Claude Sonnet 4.5,.,.
+43,B,Claude Sonnet 4.5, United Kingdom ,Correct
 Ayres Hall UTK,B,Gemini 2.5 Pro,John R. Emens College-Community Building,Incorrect
-Ayres Hall UTK,B,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,B,Claude Sonnet 4.5,"Ayres Hall, University of Tennessee, Knoxville, Tennessee",Correct
 Brown Hall,B,Gemini 2.5 Pro,University of Tennessee Dorm Room,Incorrect
 Brown Hall,B,Claude Sonnet 4.5,Specific location: Cannot be determined from the available information in this image.,Incorrect
 Google Images 1,B,Gemini 2.5 Pro,Clinch Avenue Knoxville TN,Correct
@@ -142,11 +142,11 @@ Google Images 4,B,Claude Sonnet 4.5,European road,Incorrect
 Google Images 5,B,Gemini 2.5 Pro,"Calle 466, La Fortuna, Costa Rica",Incorrect
 Google Images 5,B,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 6,B,Gemini 2.5 Pro,"34.690849, -117.330869",.
-Google Images 6,B,Claude Sonnet 4.5,,.
+Google Images 6,B,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 7,B,Gemini 2.5 Pro,"intersection of E Charleston Rd & San Antonio Rd, Palo Alto, CA 94303, USA",.
-Google Images 7,B,Claude Sonnet 4.5,.,.
+Google Images 7,B,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,B,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
-Gyeongbokgung,B,Claude Sonnet 4.5,.,.
+Gyeongbokgung,B,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,C,Gemini 2.5 Pro,Unable,Incorrect
 1,C,Claude Sonnet 4.5,Unable,Incorrect
 2,C,Gemini 2.5 Pro,"Manhattan Bridge from DUMBO, Brooklyn, New York City",.
