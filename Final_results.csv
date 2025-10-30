@@ -188,21 +188,21 @@ Gyeongbokgung,B,Claude Sonnet 4.5,.,.
 24,C,Gemini 2.5 Pro,"11th Ave and W 16th St, New York, NY 10011",Incorrect
 24,C,Claude Sonnet 4.5,Unable,Incorrect
 25,C,Gemini 2.5 Pro,"Little Venice, London",Incorrect
-25,C,Claude Sonnet 4.5,.,.
+25,C,Claude Sonnet 4.5,"Indianapolis Canal Walk, Indianapolis, Indiana",.
 26,C,Gemini 2.5 Pro,"Nara Deer Park, Nara, Japan",Incorrect
-26,C,Claude Sonnet 4.5,.,.
+26,C,Claude Sonnet 4.5,"Ponce City Market, Atlanta, Georgia",.
 27,C,Gemini 2.5 Pro,Santa Monica Pier in California,Incorrect
-27,C,Claude Sonnet 4.5,.,.
+27,C,Claude Sonnet 4.5,Unable,Incorrect
 40,C,Gemini 2.5 Pro,Unable,Incorrect
-40,C,Claude Sonnet 4.5,.,.
+40,C,Claude Sonnet 4.5,Unable,Incorrect
 41,C,Gemini 2.5 Pro,Dublin Bus Phibsborough Depot,Incorrect
-41,C,Claude Sonnet 4.5,.,.
+41,C,Claude Sonnet 4.5,Unable,Incorrect
 42,C,Gemini 2.5 Pro,Arriva bus depot,Incorrect
-42,C,Claude Sonnet 4.5,.,.
+42,C,Claude Sonnet 4.5,Unable,Incorrect
 43,C,Gemini 2.5 Pro,"London, England",.
-43,C,Claude Sonnet 4.5,.,.
+43,C,Claude Sonnet 4.5,"London, United Kingdom",.
 Ayres Hall UTK,C,Gemini 2.5 Pro,Langford Architecture Center at Texas A&M University,Incorrect
-Ayres Hall UTK,C,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,C,Claude Sonnet 4.5,"Ayres Hall at the University of Tennessee, Knoxville, Tennessee",Correct
 Brown Hall,C,Gemini 2.5 Pro,College dorm room,Incorrect
 Brown Hall,C,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 1,C,Gemini 2.5 Pro,Knoxville Sunsphere Knoxville TN,Correct
