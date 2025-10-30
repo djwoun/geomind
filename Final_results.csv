@@ -74,7 +74,7 @@ Google Images 7,A,Claude Sonnet 4.5,Southern California,Incorrect
 Gyeongbokgung,A,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,A,Claude Sonnet 4.5,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,B,Gemini 2.5 Pro,"19th Ave S and 12th St N in Fargo, North Dakota",Incorrect
-1,B,Claude Sonnet 4.5,.,.
+1,B,Claude Sonnet 4.5,.,
 2,B,Gemini 2.5 Pro,"North Dearborn Street in Chicago, Illinois",.
 2,B,Claude Sonnet 4.5,.,.
 3,B,Gemini 2.5 Pro,Intersection of South Canal Street and West Roosevelt Road in Chicago,.
@@ -140,7 +140,7 @@ Google Images 3,B,Claude Sonnet 4.5,"Racing circuit in Germany, Belgium, or East
 Google Images 4,B,Gemini 2.5 Pro,"Via del Mare, Marina di Grosseto, Tuscany, Italy",Incorrect
 Google Images 4,B,Claude Sonnet 4.5,European road,Incorrect
 Google Images 5,B,Gemini 2.5 Pro,"Calle 466, La Fortuna, Costa Rica",Incorrect
-Google Images 5,B,Claude Sonnet 4.5,.,.
+Google Images 5,B,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 6,B,Gemini 2.5 Pro,"34.690849, -117.330869",.
 Google Images 6,B,Claude Sonnet 4.5,,.
 Google Images 7,B,Gemini 2.5 Pro,"intersection of E Charleston Rd & San Antonio Rd, Palo Alto, CA 94303, USA",.
