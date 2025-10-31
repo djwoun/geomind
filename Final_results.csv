@@ -222,63 +222,63 @@ Google Images 7,C,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,C,Gemini 2.5 Pro,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 Gyeongbokgung,C,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea",Correct
 1,D,Gemini 2.5 Pro,Unable,Incorrect
-1,D,Claude Sonnet 4.5,.,.
-2,D,Gemini 2.5 Pro,Unable,.
-2,D,Claude Sonnet 4.5,.,.
+1,D,Claude Sonnet 4.5,Unable,Incorrect
+2,D,Gemini 2.5 Pro,Unable,Incorrect
+2,D,Claude Sonnet 4.5,"Wall Street or surrounding streets in the Financial District, Lower Manhattan, New York City, USA",.
 3,D,Gemini 2.5 Pro,Unable,Incorrect
-3,D,Claude Sonnet 4.5,.,.
+3,D,Claude Sonnet 4.5,Unable,Incorrect
 4,D,Gemini 2.5 Pro,Farmer's Market,.
-4,D,Claude Sonnet 4.5,.,.
-5,D,Gemini 2.5 Pro,Unable,.
-5,D,Claude Sonnet 4.5,.,.
+4,D,Claude Sonnet 4.5,Unable,Incorrect
+5,D,Gemini 2.5 Pro,Unable,Incorrect
+5,D,Claude Sonnet 4.5,Unable,Incorrect
 6,D,Gemini 2.5 Pro,42nd Street looking towards  Chrysler Building,.
-6,D,Claude Sonnet 4.5,.,.
+6,D,Claude Sonnet 4.5,"Transamerica Pyramid, San Francisco, California,",Incorrect
 7,D,Gemini 2.5 Pro,New York City Street,.
-7,D,Claude Sonnet 4.5,.,.
+7,D,Claude Sonnet 4.5,"downtown Vancouver, British Columbia, Canada",.
 8,D,Gemini 2.5 Pro,"Mission San Xavier del Bac, Tucson, Arizona",.
-8,D,Claude Sonnet 4.5,.,.
+8,D,Claude Sonnet 4.5,"Dolores Hidalgo, Guanajuato, Mexico",.
 9,D,Gemini 2.5 Pro,Unable,Incorrect
-9,D,Claude Sonnet 4.5,.,.
+9,D,Claude Sonnet 4.5,Unable,Incorrect
 10,D,Gemini 2.5 Pro,Sports Arena or Stadium,.
-10,D,Claude Sonnet 4.5,.,.
+10,D,Claude Sonnet 4.5,Unable,Incorrect
 11,D,Gemini 2.5 Pro,Amsterdam Canal,.
-11,D,Claude Sonnet 4.5,.,.
+11,D,Claude Sonnet 4.5,Unable,Incorrect
 12,D,Gemini 2.5 Pro,Wind Farm,.
-12,D,Claude Sonnet 4.5,.,.
+12,D,Claude Sonnet 4.5,Unable,Incorrect
 13,D,Gemini 2.5 Pro,"Tower of the Americas, San Antonio, TX",Incorrect
-13,D,Claude Sonnet 4.5,.,.
+13,D,Claude Sonnet 4.5,"Buenos Aires, Argentina",.
 14,D,Gemini 2.5 Pro,"The Alamo, San Antonio, TX",Incorrect
-14,D,Claude Sonnet 4.5,.,.
+14,D,Claude Sonnet 4.5,"Jefferson Memorial, West Potomac Park, Washington, D.C.",.
 15,D,Gemini 2.5 Pro,"Marble Arch, London",Incorrect
-15,D,Claude Sonnet 4.5,.,.
+15,D,Claude Sonnet 4.5,Unable,Incorrect
 16,D,Gemini 2.5 Pro,Unable,Incorrect
-16,D,Claude Sonnet 4.5,.,.
-18,D,Gemini 2.5 Pro,Unable,.
-18,D,Claude Sonnet 4.5,.,.
+16,D,Claude Sonnet 4.5,Unable,Incorrect
+18,D,Gemini 2.5 Pro,Unable,Incorrect
+18,D,Claude Sonnet 4.5,Unable,Incorrect
 19,D,Gemini 2.5 Pro,Waterfall,Incorrect
-19,D,Claude Sonnet 4.5,.,.
+19,D,Claude Sonnet 4.5,Unable,Incorrect
 23,D,Gemini 2.5 Pro,Unable,Incorrect
-23,D,Claude Sonnet 4.5,.,.
+23,D,Claude Sonnet 4.5,Unable,Incorrect
 24,D,Gemini 2.5 Pro,"Chicago, Illinois",Incorrect
-24,D,Claude Sonnet 4.5,.,.
+24,D,Claude Sonnet 4.5,Unable,Incorrect
 25,D,Gemini 2.5 Pro,"Orlando, Florida, USA",Incorrect
-25,D,Claude Sonnet 4.5,.,.
+25,D,Claude Sonnet 4.5,Unable,Incorrect
 26,D,Gemini 2.5 Pro,Hollywood and Highland Center,Incorrect
-26,D,Claude Sonnet 4.5,.,.
+26,D,Claude Sonnet 4.5,Unable,Incorrect
 27,D,Gemini 2.5 Pro,"Santa Monica Pier, California",Incorrect
-27,D,Claude Sonnet 4.5,.,.
+27,D,Claude Sonnet 4.5,Unable,Incorrect
 40,D,Gemini 2.5 Pro,Some sidewalk,Incorrect
-40,D,Claude Sonnet 4.5,.,.
+40,D,Claude Sonnet 4.5,Unable,Incorrect
 41,D,Gemini 2.5 Pro,Unable,Incorrect
-41,D,Claude Sonnet 4.5,.,.
+41,D,Claude Sonnet 4.5,Unable,Incorrect
 42,D,Gemini 2.5 Pro,Unable,Incorrect
-42,D,Claude Sonnet 4.5,.,.
+42,D,Claude Sonnet 4.5,Unable,Incorrect
 43,D,Gemini 2.5 Pro,"London, England",.
-43,D,Claude Sonnet 4.5,.,.
+43,D,Claude Sonnet 4.5,"A bus depot, United Kingdom, England",.
 Ayres Hall UTK,D,Gemini 2.5 Pro,"Samford Hall, Auburn University",Incorrect
-Ayres Hall UTK,D,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,D,Claude Sonnet 4.5,"Ayres Hall, University of Tennessee, Knoxville, Tennessee",Incorrect
 Brown Hall,D,Gemini 2.5 Pro,Chipotle Mexican Grill,Incorrect
-Brown Hall,D,Claude Sonnet 4.5,.,.
+Brown Hall,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 1,D,Gemini 2.5 Pro,"Sather Tower, UC Berkeley",Incorrect
 Google Images 1,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 2,D,Gemini 2.5 Pro,11A Klempererstra 01069 Dresden Germany,Incorrect
@@ -288,13 +288,13 @@ Google Images 3,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 4,D,Gemini 2.5 Pro,Unable,Incorrect
 Google Images 4,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 5,D,Gemini 2.5 Pro,Unable,Incorrect
-Google Images 5,D,Claude Sonnet 4.5,.,.
+Google Images 5,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 6,D,Gemini 2.5 Pro,"33�27'57.8""N 111�55'26.8""W",.
-Google Images 6,D,Claude Sonnet 4.5,.,.
+Google Images 6,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 7,D,Gemini 2.5 Pro,.,.
-Google Images 7,D,Claude Sonnet 4.5,"California Street, Berkeley, CA",.
+Google Images 7,D,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,D,Gemini 2.5 Pro,"Diamond Head, Oahu, Hawaii",Incorrect
-Gyeongbokgung,D,Claude Sonnet 4.5,.,.
+Gyeongbokgung,D,Claude Sonnet 4.5,Unable,Incorrect
 1,E,Gemini 2.5 Pro,"The intersection of Grand Avenue and 13th Street, Ames, Iowa.",Incorrect
 1,E,Claude Sonnet 4.5,.,.
 2,E,Gemini 2.5 Pro,"Looking east on West Jackson Boulevard from the intersection with South LaSalle Street, Chicago, Illinois.",Correct
