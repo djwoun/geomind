@@ -296,45 +296,45 @@ Google Images 7,D,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,D,Gemini 2.5 Pro,"Diamond Head, Oahu, Hawaii",Incorrect
 Gyeongbokgung,D,Claude Sonnet 4.5,Unable,Incorrect
 1,E,Gemini 2.5 Pro,"The intersection of Grand Avenue and 13th Street, Ames, Iowa.",Incorrect
-1,E,Claude Sonnet 4.5,.,.
+1,E,Claude Sonnet 4.5,Unable,Incorrect
 2,E,Gemini 2.5 Pro,"Looking east on West Jackson Boulevard from the intersection with South LaSalle Street, Chicago, Illinois.",Correct
-2,E,Claude Sonnet 4.5,.,.
+2,E,Claude Sonnet 4.5,"Federal Reserve Bank of Boston area, intersection near Oliver Street and Atlantic Avenue, Boston, Massachusetts",Incorrect
 3,E,Gemini 2.5 Pro,"The photo was taken at the intersection of West Cermak Road and South Archer Avenue in Chicago, Illinois, looking northeast.",Incorrect
-3,E,Claude Sonnet 4.5,.,.
+3,E,Claude Sonnet 4.5,"Indianapolis Motor Speedway, Indianapolis, Indiana",Incorrect
 4,E,Gemini 2.5 Pro,"The 1836 Country Store, Stowe, Vermont, USA.",Incorrect
-4,E,Claude Sonnet 4.5,.,.
+4,E,Claude Sonnet 4.5,"Peddler's Village, Lahaska, Pennsylvania",Incorrect
 5,E,Gemini 2.5 Pro,"*   **Adidas and Umbro signs:** These international sportswear brands are also prominent. The Adidas sign is for a ""?????????????? (Kinetic Sports Goods Company).",Incorrect
-5,E,Claude Sonnet 4.5,.,.
+5,E,Claude Sonnet 4.5,"Chinatown, London, United Kingdom (likely Gerrard Street or the surrounding area in Westminster)",Incorrect
 6,E,Gemini 2.5 Pro,"The northwest corner of the intersection of East 42nd Street and Madison Avenue in New York City, looking east.",Correct
-6,E,Claude Sonnet 4.5,.,.
+6,E,Claude Sonnet 4.5,"42nd Street near Park Avenue, looking northeast toward the Chrysler Building, in the vicinity of Grand Central Terminal, Manhattan, New York City",Correct
 7,E,Gemini 2.5 Pro,"The intersection of West Hastings Street and Seymour Street, Vancouver, British Columbia, Canada.",Incorrect
-7,E,Claude Sonnet 4.5,.,.
+7,E,Claude Sonnet 4.5,Unable,Incorrect
 8,E,Gemini 2.5 Pro,"Main Market Square (Rynek G??wny), Krak?w, Poland.",Correct
-8,E,Claude Sonnet 4.5,.,.
+8,E,Claude Sonnet 4.5,"Main Market Square (Rynek G?ówny), Kraków, Poland",Correct
 9,E,Gemini 2.5 Pro,"View from the Massachusetts Avenue bridge, looking southeast at the Burrage Mansion on the corner of Commonwealth Avenue in Boston, Massachusetts.",Correct
-9,E,Claude Sonnet 4.5,.,.
+9,E,Claude Sonnet 4.5,"Mannerheimintie, Helsinki, Finland",Correct
 10,E,Gemini 2.5 Pro,"The specific location is outside the Social Bite caf? at 89 St Vincent Street, Glasgow, Scotland.",Incorrect
-10,E,Claude Sonnet 4.5,.,.
+10,E,Claude Sonnet 4.5,"Covent Garden, London, United Kingdom",Incorrect
 11,E,Gemini 2.5 Pro,"The Quay, Clonmel, County Tipperary, Ireland.",Incorrect
-11,E,Claude Sonnet 4.5,.,.
+11,E,Claude Sonnet 4.5,"River Nore, Kilkenny, Ireland",Incorrect
 12,E,Gemini 2.5 Pro,"London Stansted Airport (STN), England, UK.",Correct
-12,E,Claude Sonnet 4.5,.,.
+12,E,Claude Sonnet 4.5,"Barcelona-El Prat Airport (BCN), Barcelona, Spain",Incorrect
 13,E,Gemini 2.5 Pro,"Looking east on Pike Street from 1st Avenue in Seattle, Washington.",Correct
-13,E,Claude Sonnet 4.5,.,.
+13,E,Claude Sonnet 4.5,"16th Street Mall, Denver, Colorado",Incorrect
 14,E,Gemini 2.5 Pro,"Piazza Ognissanti, Florence, Italy.",Incorrect
-14,E,Claude Sonnet 4.5,.,.
+14,E,Claude Sonnet 4.5,"Certosa del Galluzzo (Certosa di Firenze), Galluzzo, Florence, Italy",Incorrect
 15,E,Gemini 2.5 Pro,"The junction of Baildon Road, Browgate, and Northgate in Baildon, Shipley, West Yorkshire, England.",Incorrect
-15,E,Claude Sonnet 4.5,.,.
+15,E,Claude Sonnet 4.5,"This appears to be the Memorial Fountain at the junction in Glossop, Derbyshire, England.",Incorrect
 16,E,Gemini 2.5 Pro,"The intersection of Davie Street and Bute Street, Vancouver, British Columbia, Canada.",Correct
-16,E,Claude Sonnet 4.5,.,.
+16,E,Claude Sonnet 4.5,"Davie Street or West End, Downtown Vancouver, British Columbia, Canada",Correct
 18,E,Gemini 2.5 Pro,"Plaza de Bolivar, facing the Cathedral Basilica of the Immaculate Conception, in Bogota, Colombia.",Correct
-18,E,Claude Sonnet 4.5,.,.
+18,E,Claude Sonnet 4.5,"Plaza de Nariño (main square), Pasto, Nariño Department, Colombia - in front of the Cathedral Basilica of Our Lady of the Immaculate Conception",Correct
 19,E,Gemini 2.5 Pro,"Washington Square Park, New York City, New York.",Correct
-19,E,Claude Sonnet 4.5,.,.
+19,E,Claude Sonnet 4.5,"Washington Square Park, Greenwich Village, Manhattan, New York City",Correct
 23,E,Gemini 2.5 Pro,"The photograph was taken on Uxbridge Road in Ealing, London, looking west towards the Daniel department store.",Incorrect
-23,E,Claude Sonnet 4.5,.,.
+23,E,Claude Sonnet 4.5,"A street in London, England, UK - likely a main road in an outer London borough based on the architectural style and bus routes visible.",Incorrect
 24,E,Gemini 2.5 Pro,"4th Avenue South and Terrace Street, Seattle, Washington.",Correct
-24,E,Claude Sonnet 4.5,.,.
+24,E,Claude Sonnet 4.5,"Atlantic Avenue near South Station Bus Terminal, Boston, Massachusetts",Incorrect
 25,E,Gemini 2.5 Pro,"Caversham Pier, Reading, England.",Incorrect
 25,E,Claude Sonnet 4.5,.,.
 26,E,Gemini 2.5 Pro,"The photograph was taken in the Town Square of Stevenage, Hertfordshire, England.",Correct
