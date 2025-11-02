@@ -336,39 +336,39 @@ Gyeongbokgung,D,Claude Sonnet 4.5,Unable,Incorrect
 24,E,Gemini 2.5 Pro,"4th Avenue South and Terrace Street, Seattle, Washington.",Correct
 24,E,Claude Sonnet 4.5,"Atlantic Avenue near South Station Bus Terminal, Boston, Massachusetts",Incorrect
 25,E,Gemini 2.5 Pro,"Caversham Pier, Reading, England.",Incorrect
-25,E,Claude Sonnet 4.5,.,.
+25,E,Claude Sonnet 4.5,"Kingston upon Thames, London (Greater London), England, UK - specifically the riverside area near the town center",Correct
 26,E,Gemini 2.5 Pro,"The photograph was taken in the Town Square of Stevenage, Hertfordshire, England.",Correct
-26,E,Claude Sonnet 4.5,.,.
+26,E,Claude Sonnet 4.5,"Schloﬂstraﬂe/Steglitz Town Center, Berlin-Steglitz, Germany",Incorrect
 27,E,Gemini 2.5 Pro,"Goleta Pier, Goleta, California",Incorrect
-27,E,Claude Sonnet 4.5,.,.
+27,E,Claude Sonnet 4.5,"Ocean Beach Pier, San Diego, California",Incorrect
 40,E,Gemini 2.5 Pro,"On the south side of G Street NW, just west of the intersection with 10th Street NW, Washington, D.C.",Incorrect
-40,E,Claude Sonnet 4.5,.,.
+40,E,Claude Sonnet 4.5,"Bangkok, Thailand (likely in a tourist or commercial district based on the urban development and pedestrian activity)",Incorrect
 41,E,Gemini 2.5 Pro,"The photograph was taken on Castle Street in Salisbury, Wiltshire, UK, looking north towards the A36 roundabout.",Correct
-41,E,Claude Sonnet 4.5,.,.
+41,E,Claude Sonnet 4.5," Bath, Somerset, United Kingdom (likely at one of Bath's Park & Ride terminals or in the city center)",Incorrect
 42,E,Gemini 2.5 Pro,"The photo was taken at the Terminal de Buses de Talca, in Talca, Chile, looking across the street at the corner of Calle 12 Ote and Calle 2 Sur.",Incorrect
-42,E,Claude Sonnet 4.5,.,.
+42,E,Claude Sonnet 4.5,"Terminal de Buses, Temuco, Chile or another major Chilean city's bus terminal in southern/central Chile.",Incorrect
 43,E,Gemini 2.5 Pro,"Braemar Road, at the corner of Neale's Road, outside Griffin Park stadium in Brentford, London, UK.",Incorrect
-43,E,Claude Sonnet 4.5,.,.
+43,E,Claude Sonnet 4.5,"Stadium of Light, Sunderland, England (or the streets immediately surrounding the stadium on a matchday)",Incorrect
 Ayres Hall UTK,E,Gemini 2.5 Pro,"Ayres Hall, University of Tennessee, Knoxville.",Correct
-Ayres Hall UTK,E,Claude Sonnet 4.5,.,.
+Ayres Hall UTK,E,Claude Sonnet 4.5,"Ayres Hall, University of Tennessee, Knoxville, Tennessee",Correct
 Brown Hall,E,Gemini 2.5 Pro,"Stokely Hall, University of Tennessee, Knoxville",Incorrect
-Brown Hall,E,Claude Sonnet 4.5,.,.
+Brown Hall,E,Claude Sonnet 4.5,"University of Tennessee, Knoxville - Student Residence Hall/Dormitory",Incorrect
 Google Images 1,E,Gemini 2.5 Pro,"World's Fair Park Drive, Knoxville, Tennessee, USA.",Correct
-Google Images 1,E,Claude Sonnet 4.5,.,.
+Google Images 1,E,Claude Sonnet 4.5,"World's Fair Park, Knoxville, Tennessee, USA (photographed from Clinch Avenue looking east toward the Sunsphere)",Correct
 Google Images 2,E,Gemini 2.5 Pro,"Barlachstra?e at the intersection with Kirschweg, in the Siedlung Reform district of Magdeburg, Germany.",Incorrect
-Google Images 2,E,Claude Sonnet 4.5,.,.
+Google Images 2,E,Claude Sonnet 4.5,"Germany, likely in the Berlin area or another major German city",Correct
 Google Images 3,E,Gemini 2.5 Pro,"Gardens of the Grand Trianon, Palace of Versailles, Versailles, France.",Correct
-Google Images 3,E,Claude Sonnet 4.5,.,.
+Google Images 3,E,Claude Sonnet 4.5,"Gardens of Versailles (Jardins du Ch‚teau de Versailles), Versailles, France",Correct
 Google Images 4,E,Gemini 2.5 Pro,"Via Aurelia Nord, 26, 56122 Pisa PI, Italy.",Correct
-Google Images 4,E,Claude Sonnet 4.5,.,.
+Google Images 4,E,Claude Sonnet 4.5,"This image appears to be taken along a state road in central or southern Italy, likely in the Lazio region or similar area where wild boar crossings are frequent near Agip fuel stations.",Correct
 Google Images 5,E,Gemini 2.5 Pro,"Intersection of C. 132 and C. 69, San Vicente, Moravia, San Jos√©, Costa Rica.",Incorrect
-Google Images 5,E,Claude Sonnet 4.5,.,.
+Google Images 5,E,Claude Sonnet 4.5,"Calle 133, San JosÈ Province, Costa Rica (likely in the Guadalupe or San Pedro area of Greater San JosÈ)",Correct
 Google Images 6,E,Gemini 2.5 Pro,"The corner of N Parkway Dr and W Olive Ave in Fresno, California.",Correct
-Google Images 6,E,Claude Sonnet 4.5,.,.
+Google Images 6,E,Claude Sonnet 4.5," Miracle Mile (Oracle Road area), Tucson, Arizona",Incorrect
 Google Images 7,E,Gemini 2.5 Pro,"The intersection of Peter Behr Drive and Civic Center Drive, San Rafael, California.",Incorrect
-Google Images 7,E,Claude Sonnet 4.5,.,.
+Google Images 7,E,Claude Sonnet 4.5,Unable,Incorrect
 Gyeongbokgung,E,Gemini 2.5 Pro,"Geunjeongjeon Hall, Gyeongbokgung Palace, Seoul, South Korea.",Correct
-Gyeongbokgung,E,Claude Sonnet 4.5,.,.
+Gyeongbokgung,E,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea ",Correct
 1,F,Gemini 2.5 Pro,"The intersection of Grand Avenue and 13th Street, Ames, Iowa.",Incorrect
 1,F,Claude Sonnet 4.5,.,.
 2,F,Gemini 2.5 Pro,"Looking east on West Jackson Boulevard from the intersection with South LaSalle Street, Chicago, Illinois.",Correct
