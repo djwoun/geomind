@@ -16,7 +16,7 @@ Image Index,Modifier,AI,Result,Interpretation
 8,A,Gemini 2.5 Pro,"Main Market Square (Rynek Gaawny), Krakaw, Poland",Correct
 8,A,Claude Sonnet 4.5,"Main Market Square (Rynek Gowny) in Krakaw, Poland.",Correct
 9,A,Gemini 2.5 Pro,"The specific location is on the Massachusetts Avenue bridge, looking at the Burrage House in Boston, MA",Incorrect
-9,A,Claude Sonnet 4.5,"Malm�, Sweden,",Incorrect
+9,A,Claude Sonnet 4.5,"Malmi, Sweden,",Incorrect
 10,A,Gemini 2.5 Pro,"Outside the Pret A Manger at 16 St Martin's Court, London, WC2H 0HR, United Kingdom",Correct
 10,A,Claude Sonnet 4.5,"Reading, Berkshire, UK - Broad Street or The Oracle shopping area",Incorrect
 11,A,Claude Sonnet 4.5,"Regent's Canal, Camden/Islington area, London, England",Incorrect
@@ -289,7 +289,7 @@ Google Images 4,D,Gemini 2.5 Pro,Unable,Incorrect
 Google Images 4,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 5,D,Gemini 2.5 Pro,Unable,Incorrect
 Google Images 5,D,Claude Sonnet 4.5,Unable,Incorrect
-Google Images 6,D,Gemini 2.5 Pro,"33�27'57.8""N 111�55'26.8""W",Incorrect
+Google Images 6,D,Gemini 2.5 Pro,"3327'57.8""N 11155'26.8""W",Incorrect
 Google Images 6,D,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 7,D,Gemini 2.5 Pro,Unable,Incorrect
 Google Images 7,D,Claude Sonnet 4.5,Unable,Incorrect
@@ -475,8 +475,8 @@ Gyeongbokgung,F,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea",Cor
 15,None,Claude Sonnet 4.5,Yorkshire or Northern England,Incorrect
 16,None,Gemini 2.5 Pro,"Davie Village, Vancouver",Correct
 16,None,Claude Sonnet 4.5,"Vancouver, British Columbia, specifically in the Davie Village neighborhood",Correct
-18,None,Gemini 2.5 Pro,Primatial Cathedral of Bogotá,Correct
-18,None,Claude Sonnet 4.5,"Basilica del Señor de los Milagros (Basilica of Our Lord of Miracles) in Buga, Colombia",Incorrect
+18,None,Gemini 2.5 Pro,Primatial Cathedral of Bogota,Correct
+18,None,Claude Sonnet 4.5,"Basilica del Seaor de los Milagros (Basilica of Our Lord of Miracles) in Buga, Colombia",Incorrect
 19,None,Gemini 2.5 Pro,Washington Square Park in New York City,Correct
 19,None,Claude Sonnet 4.5,"Washington Square Park in Philadelphia, Pennsylvania",Incorrect
 23,None,Gemini 2.5 Pro,"Chiswick High Road in the Chiswick district of West London, UK",Correct
@@ -493,7 +493,7 @@ Gyeongbokgung,F,Claude Sonnet 4.5,"Gyeongbokgung Palace, Seoul, South Korea",Cor
 40,None,Claude Sonnet 4.5,"potentially be a downtown area in a mid-sized American city with historic preservation, possibly in the Mid-Atlantic or similar region",Incorrect
 41,None,Gemini 2.5 Pro,"Salisbury, Wiltshire, England",Correct
 41,None,Claude Sonnet 4.5,"Bath, Somerset, England",Incorrect
-42,None,Gemini 2.5 Pro,"Estación Central borough of Santiago, Chile",Correct
+42,None,Gemini 2.5 Pro,"Estacian Central borough of Santiago, Chile",Correct
 42,None,Claude Sonnet 4.5,highway rest stop or terminal facility somewhere along Chile's main north-south highway system,Incorrect
 43,None,Gemini 2.5 Pro,"Wellesley Road in Brentford, West London, UK",Correct
 43,None,Claude Sonnet 4.5,Brentford area of West London,Correct
@@ -509,8 +509,8 @@ Google Images 3,None,Gemini 2.5 Pro,"Gardens of Versailles in Versailles, France
 Google Images 3,None,Claude Sonnet 4.5,Palace of Versailles gardens,Correct
 Google Images 4,None,Gemini 2.5 Pro,"SS1 Via Aurelia, Tuscany, Italy",Correct
 Google Images 4,None,Claude Sonnet 4.5,"SS1 Via Aurelia, Tuscany, Italy",Correct
-Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibás, San José Province, Costa Rica.",Incorrect
-Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San José, Costa Rica",Incorrect
+Google Images 5,None,Gemini 2.5 Pro,"Calle 132 in San Juan de Tibas, San Jose Province, Costa Rica.",Incorrect
+Google Images 5,None,Claude Sonnet 4.5,"Guadalupe region San Jose, Costa Rica",Incorrect
 Google Images 6,None,Gemini 2.5 Pro,"corner of Parkway Drive and Pearl Street in Bakersfield, California",Incorrect
 Google Images 6,None,Claude Sonnet 4.5,Coachella Valley in California,Incorrect
 Google Images 7,None,Gemini 2.5 Pro,"Campus Drive, Foothill College in Los Altos Hills, California.",Incorrect
