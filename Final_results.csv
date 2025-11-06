@@ -520,21 +520,21 @@ Gyeongbokgung,None,Claude Sonnet 4.5,"Gyeongbokgung Palace  in Seoul, South Kore
 Google Images 8,A,Gemini 2.5 Pro,,
 Google Images 8,A,Claude Sonnet 4.5,,
 Google Images 8,B,Gemini 2.5 Pro,,
-Google Images 8,B,Claude Sonnet 4.5,,
+Google Images 8,B,Claude Sonnet 4.5,"Downtown Berkeley, California",
 Google Images 8,C,Gemini 2.5 Pro,,
-Google Images 8,C,Claude Sonnet 4.5,,
+Google Images 8,C,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 8,D,Gemini 2.5 Pro,,
-Google Images 8,D,Claude Sonnet 4.5,,
+Google Images 8,D,Claude Sonnet 4.5,"The Temple Mount (Haram al-Sharif), Old City of Jerusalem, Israel/Palestine",Incorrect
 Google Images 8,E,Gemini 2.5 Pro,,
 Google Images 8,E,Claude Sonnet 4.5,,
 Google Images 8,F,Gemini 2.5 Pro,,
 Google Images 8,F,Claude Sonnet 4.5,,
 Google Images 8,None,Gemini 2.5 Pro,"The intersection of Gilmer Street SE and Courtland Street SE, Atlanta, Georgia.",Correct
-Google Images 8,None,Claude Sonnet 4.5,,
+Google Images 8,None,Claude Sonnet 4.5,"Courtland Street NE, Downtown Atlanta, Georgia",Correct
 Google Images 9,A,Gemini 2.5 Pro,,
 Google Images 9,A,Claude Sonnet 4.5,,
 Google Images 9,B,Gemini 2.5 Pro,,
-Google Images 9,B,Claude Sonnet 4.5,,
+Google Images 9,B,Claude Sonnet 4.5,Unable,Incorrect
 Google Images 9,C,Gemini 2.5 Pro,,
 Google Images 9,C,Claude Sonnet 4.5,,
 Google Images 9,D,Gemini 2.5 Pro,,
@@ -544,7 +544,7 @@ Google Images 9,E,Claude Sonnet 4.5,,
 Google Images 9,F,Gemini 2.5 Pro,,
 Google Images 9,F,Claude Sonnet 4.5,,
 Google Images 9,None,Gemini 2.5 Pro,"Klepsydra Cafe, Thrasyvoulou 9, Plaka, Athens, Greece, looking southeast down Thrasyvoulou Street",Correct
-Google Images 9,None,Claude Sonnet 4.5,,
+Google Images 9,None,Claude Sonnet 4.5,"Sirince, Izmir Province, Turkey",Incorrect
 Google Images 10,A,Gemini 2.5 Pro,,
 Google Images 10,A,Claude Sonnet 4.5,,
 Google Images 10,B,Gemini 2.5 Pro,,
@@ -558,7 +558,7 @@ Google Images 10,E,Claude Sonnet 4.5,,
 Google Images 10,F,Gemini 2.5 Pro,,
 Google Images 10,F,Claude Sonnet 4.5,,
 Google Images 10,None,Gemini 2.5 Pro,"Kornmarkt 9, 95028 Hof, Germany",Correct
-Google Images 10,None,Claude Sonnet 4.5,,
+Google Images 10,None,Claude Sonnet 4.5,"Bruckenstrasse, Chemnitz, Saxony, Germany",Incorrect
 Google Images 11,A,Gemini 2.5 Pro,,
 Google Images 11,A,Claude Sonnet 4.5,,
 Google Images 11,B,Gemini 2.5 Pro,,
@@ -571,8 +571,8 @@ Google Images 11,E,Gemini 2.5 Pro,,
 Google Images 11,E,Claude Sonnet 4.5,,
 Google Images 11,F,Gemini 2.5 Pro,,
 Google Images 11,F,Claude Sonnet 4.5,,
-Google Images 11,None,Gemini 2.5 Pro,"intersection of Alte Dorfstraaye and Gaadt in Tinnum, on the island of Sylt, Germany.",Incorrect
-Google Images 11,None,Claude Sonnet 4.5,,
+Google Images 11,None,Gemini 2.5 Pro,"intersection of Alte Dorfstraaye and Gaadt in Tinnum, on the island of Sylt, Germany.",Correct
+Google Images 11,None,Claude Sonnet 4.5,"Schleswig-Holstein, Germany",Incorrect
 Google Images 12,A,Gemini 2.5 Pro,,
 Google Images 12,A,Claude Sonnet 4.5,,
 Google Images 12,B,Gemini 2.5 Pro,,
@@ -586,7 +586,7 @@ Google Images 12,E,Claude Sonnet 4.5,,
 Google Images 12,F,Gemini 2.5 Pro,,
 Google Images 12,F,Claude Sonnet 4.5,,
 Google Images 12,None,Gemini 2.5 Pro,"median on North Broadway (US-25) at the intersection with Main Street, looking towards the Boone Tavern Hotel, in Berea, Kentucky",Correct
-Google Images 12,None,Claude Sonnet 4.5,,
+Google Images 12,None,Claude Sonnet 4.5,"Boone Tavern Hotel area, downtown Berea, Madison County, Kentucky",Correct
 Google Images 13,A,Gemini 2.5 Pro,,
 Google Images 13,A,Claude Sonnet 4.5,,
 Google Images 13,B,Gemini 2.5 Pro,,
@@ -600,7 +600,7 @@ Google Images 13,E,Claude Sonnet 4.5,,
 Google Images 13,F,Gemini 2.5 Pro,,
 Google Images 13,F,Claude Sonnet 4.5,,
 Google Images 13,None,Gemini 2.5 Pro,"Kruisplein, Rotterdam, Netherlands",Correct
-Google Images 13,None,Claude Sonnet 4.5,,
+Google Images 13,None,Claude Sonnet 4.5,Netherlands - Hofplein or Rotterdam city center,Correct
 Google Images 14,A,Gemini 2.5 Pro,,
 Google Images 14,A,Claude Sonnet 4.5,,
 Google Images 14,B,Gemini 2.5 Pro,,
@@ -614,7 +614,7 @@ Google Images 14,E,Claude Sonnet 4.5,,
 Google Images 14,F,Gemini 2.5 Pro,,
 Google Images 14,F,Claude Sonnet 4.5,,
 Google Images 14,None,Gemini 2.5 Pro,"300 W 31st Ave, Anchorage, AK 99503, USA",Correct
-Google Images 14,None,Claude Sonnet 4.5,,
+Google Images 14,None,Claude Sonnet 4.5,"31st Avenue and Fidelity Way, Anchor Building - likely in Fargo, North Dakota",Incorrect
 Google Images 15,A,Gemini 2.5 Pro,,
 Google Images 15,A,Claude Sonnet 4.5,,
 Google Images 15,B,Gemini 2.5 Pro,,
@@ -628,7 +628,7 @@ Google Images 15,E,Claude Sonnet 4.5,,
 Google Images 15,F,Gemini 2.5 Pro,,
 Google Images 15,F,Claude Sonnet 4.5,,
 Google Images 15,None,Gemini 2.5 Pro,"Avenida Irarrazaval and Avenida Pedro de Valdivia, Auaoa, Santiago, Regian Metropolitana, Chile",Correct
-Google Images 15,None,Claude Sonnet 4.5,,
+Google Images 15,None,Claude Sonnet 4.5,"Avenida Libertador Bernardo O'Higgins, Santiago, Chilie",
 Google Images 16,A,Gemini 2.5 Pro,,
 Google Images 16,A,Claude Sonnet 4.5,,
 Google Images 16,B,Gemini 2.5 Pro,,
@@ -642,7 +642,7 @@ Google Images 16,E,Claude Sonnet 4.5,,
 Google Images 16,F,Gemini 2.5 Pro,,
 Google Images 16,F,Claude Sonnet 4.5,,
 Google Images 16,None,Gemini 2.5 Pro,"F. Sevilla Boulevard at the intersection with M. Sioson Street, Malabon City, Metro Manila, Philippines",Correct
-Google Images 16,None,Claude Sonnet 4.5,,
+Google Images 16,None,Claude Sonnet 4.5,"Metro Manila's urban core, Manila, Philippines",Correct
 Google Images 17,A,Gemini 2.5 Pro,,
 Google Images 17,A,Claude Sonnet 4.5,,
 Google Images 17,B,Gemini 2.5 Pro,,
@@ -656,7 +656,7 @@ Google Images 17,E,Claude Sonnet 4.5,,
 Google Images 17,F,Gemini 2.5 Pro,,
 Google Images 17,F,Claude Sonnet 4.5,,
 Google Images 17,None,Gemini 2.5 Pro,"Hringbraut, Landspatali  near the intersection with Eiraksgata, Reykjavaak, Iceland",Correct
-Google Images 17,None,Claude Sonnet 4.5,,
+Google Images 17,None,Claude Sonnet 4.5,"University of Iceland area, Reykjavik, Iceland",Correct
 Google Images 18,A,Gemini 2.5 Pro,,
 Google Images 18,A,Claude Sonnet 4.5,,
 Google Images 18,B,Gemini 2.5 Pro,,
@@ -670,7 +670,7 @@ Google Images 18,E,Claude Sonnet 4.5,,
 Google Images 18,F,Gemini 2.5 Pro,,
 Google Images 18,F,Claude Sonnet 4.5,,
 Google Images 18,None,Gemini 2.5 Pro,"Bang Chak, Phra Khanong, Bangkok 10260, Thailand",Correct
-Google Images 18,None,Claude Sonnet 4.5,,
+Google Images 18,None,Claude Sonnet 4.5,"Nonthaburi Province, Thailand, likely along a main road in Mueang Nonthaburi District",Incorrect
 Google Images 19,A,Gemini 2.5 Pro,,
 Google Images 19,A,Claude Sonnet 4.5,,
 Google Images 19,B,Gemini 2.5 Pro,,
@@ -684,7 +684,7 @@ Google Images 19,E,Claude Sonnet 4.5,,
 Google Images 19,F,Gemini 2.5 Pro,,
 Google Images 19,F,Claude Sonnet 4.5,,
 Google Images 19,None,Gemini 2.5 Pro," Chome-1-1 Shimizumachi, Yao, Osaka 581-0005, Japan.",Correct
-Google Images 19,None,Claude Sonnet 4.5,,
+Google Images 19,None,Claude Sonnet 4.5,"Yawata City, Kyoto Prefecture, Japan",Incorrect
 Google Images 20,A,Gemini 2.5 Pro,,
 Google Images 20,A,Claude Sonnet 4.5,,
 Google Images 20,B,Gemini 2.5 Pro,,
@@ -698,4 +698,4 @@ Google Images 20,E,Claude Sonnet 4.5,,
 Google Images 20,F,Gemini 2.5 Pro,,
 Google Images 20,F,Claude Sonnet 4.5,,
 Google Images 20,None,Gemini 2.5 Pro,"Ligovsky Prospekt, 107, St. Petersburg, Russia.",Correct
-Google Images 20,None,Claude Sonnet 4.5,,
+Google Images 20,None,Claude Sonnet 4.5,"Ligovsky Prospekt, Saint Petersburg, Russia",Correct
