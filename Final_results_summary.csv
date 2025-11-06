@@ -1,0 +1,15 @@
+﻿Modifier,AI,Correct,Incorrect,Incorrect-Unable,Incorrect-Wrong
+None,Gemini,29,8,0,8
+A,Gemini,22,15,0,15
+B,Gemini,12,25,0,25
+C,Gemini,3,34,4,30
+D,Gemini,1,36,13,23
+E,Gemini,18,19,0,19
+F,Gemini,23,14,0,14
+None,Claude,15,22,1,21
+A,Claude,9,28,5,23
+B,Claude,6,31,13,18
+C,Claude,2,35,22,13
+D,Claude,1,36,29,7
+E,Claude,14,23,3,20
+F,Claude,15,22,5,17
