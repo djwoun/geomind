@@ -1,10 +1,11 @@
 """This program can be used to create percentage blur. 
-The user inputs the percentage they would like to blur the images by"""
+The user inputs the percentage they would like to blur the images by
+Used to create Modifiers B-D"""
 import os
 from PIL import Image, ImageFilter
 
-INPUT_FOLDER = 'input_images'
-OUTPUT_FOLDER = 'output_images_B'
+INPUT_FOLDER = 'New Images'
+OUTPUT_FOLDER = 'output_images_B_2'
 BLUR_PERCENTAGE = 30
 
 if not os.path.exists(OUTPUT_FOLDER):
@@ -22,4 +23,4 @@ for filename in os.listdir(INPUT_FOLDER):
     print(full_path[:full_path.index(".")])
     img = Image.open(full_path)
     blurred_image = blur_percent(img, BLUR_PERCENTAGE)
-    blurred_image.save(f"output_images_B/{filename[:filename.index(".")]}-{BLUR_PERCENTAGE}PercentBlur.png")
+    blurred_image.save(f"{OUTPUT_FOLDER}/{filename[:filename.index(".")]}-{BLUR_PERCENTAGE}PercentBlur.png")

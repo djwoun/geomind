@@ -7,8 +7,8 @@ from google.api_core import exceptions
 
 # --- Configuration ---
 API_KEY = ''
-INPUT_FOLDER = 'input_images'
-OUTPUT_FOLDER = 'output_images'
+INPUT_FOLDER = 'New Images'
+OUTPUT_FOLDER = 'output_images_A_2'
 BLUR_PROMPT = "Blur the image so the location is unidentifiable"
 # --- End of Configuration ---
 
@@ -73,6 +73,8 @@ for image_path in image_paths:
             
             print(f"Successfully saved to: {output_path}")
             processed = True # Mark as done and exit the 'while' loop
+
+            time.sleep(10)
 
         except exceptions.ResourceExhausted as e:
             # This is the rate limit error
