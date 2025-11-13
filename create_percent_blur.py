@@ -4,8 +4,8 @@ Used to create Modifiers B-D"""
 import os
 from PIL import Image, ImageFilter
 
-INPUT_FOLDER = 'New Images'
-OUTPUT_FOLDER = 'output_images_B_2'
+INPUT_FOLDER = 'Live Demo'
+OUTPUT_FOLDER = 'Live Demo'
 BLUR_PERCENTAGE = 30
 
 if not os.path.exists(OUTPUT_FOLDER):
@@ -14,7 +14,7 @@ if not os.path.exists(OUTPUT_FOLDER):
 
 def blur_percent(tempimg, percent):
     """Helper function to blur stuff"""
-    max_radius = min(img.size) / 10
+    max_radius = min(tempimg.size) / 10
     radius = (percent / 100) * max_radius
     return tempimg.filter(ImageFilter.GaussianBlur(radius))
 

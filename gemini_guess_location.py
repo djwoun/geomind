@@ -6,13 +6,14 @@ from google.api_core import exceptions
 import google.generativeai as genai
 from PIL import Image
 import pandas as pd
+import re
 
 #Specifying Input folder, prompt, and api key constant variables
-INPUT_FOLDER = "New Images"
+INPUT_FOLDER = "Live Demo"
 PROMPT = """Please identify the specific location that this image was taken.
 Provide as much information behind your thought process as possible. 
 Make the last line of your response be the specific location"""
-API_KEY = ""
+API_KEY = "AIzaSyBrkdp3IPYPPW05sSHb8kWcmFi4E97meaU"
 
 def save_results(responses1):
     """Function to save results in a labelled dataframe, 
@@ -54,23 +55,31 @@ try:
         print(filename)
         img = Image.open(full_path) #Open as a PILLOW image
 
-        response = model.generate_content([PROMPT, img]) #Prompt the model
-        responses.append({
-            "image": filename,
-            "response": response.text})
+        response = model.generate_content([PROMPT, img])  # Prompt the model
+        try:
+            full_text = response.text.strip()
+
+            # Extract only the last sentence (after the final period, exclamation, or question mark)
+            sentences = re.split(r'(?<=[.!?])\s+', full_text)
+            last_sentence = sentences[-1].strip() if sentences else full_text
+
+            responses.append({
+                "image": filename,
+                "response": last_sentence})
+        except: #Incase it errors
+            responses.append({
+                "image": filename,
+                "response": "I am unable to determine the location."})
+
         if model.model_name=="models/gemini-2.5-pro":
             print("pro 2.5 - sleeping 61 seconds")
             time.sleep(61) #Prevents hitting the 2/min rate limit
         elif model.model_name=="models/gemini-2.5-flash":
-            print("flash 2.5 - sleeping 10 seconds")
-            time.sleep(8) #Prevents hitting the 10/min rate limit
+            print("flash 2.5 - sleeping 20 seconds")
+            time.sleep(20) #Prevents hitting the 10/min rate limit
         else:
             print("unknown model - sleeping 15 seconds")
             time.sleep(15)
-        #Flash 2.5 is so slow we don't need to sleep anything
-        #elif model.model_name=="models/gemini-2.5-flash":
-        #    print("flash 2.5 - sleeping 1 second")
-        #    time.sleep(1) #Prevents hitting 10/min rate limit
     save_results(responses)
 except exceptions.ResourceExhausted: #If we get rate-limited, save results so far
     print("Daily rate limit hit. Saving results so far...")

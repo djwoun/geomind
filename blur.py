@@ -6,9 +6,9 @@ from PIL import Image
 from google.api_core import exceptions
 
 # --- Configuration ---
-API_KEY = ''
-INPUT_FOLDER = 'New Images'
-OUTPUT_FOLDER = 'output_images_A_2'
+API_KEY = 'AIzaSyDkYuYi8JCzOc4p0nX085valfjJ-frtfnI'
+INPUT_FOLDER = 'Original Picture'
+OUTPUT_FOLDER = 'Live Demo'
 BLUR_PROMPT = "Blur the image so the location is unidentifiable"
 # --- End of Configuration ---
 
