@@ -13,7 +13,7 @@ INPUT_FOLDER = "Live Demo"
 PROMPT = """Please identify the specific location that this image was taken.
 Provide as much information behind your thought process as possible. 
 Make the last line of your response be the specific location"""
-API_KEY = "AIzaSyBrkdp3IPYPPW05sSHb8kWcmFi4E97meaU"
+API_KEY = ""
 
 def save_results(responses1):
     """Function to save results in a labelled dataframe, 
