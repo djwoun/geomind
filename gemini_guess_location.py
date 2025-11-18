@@ -8,11 +8,11 @@ from PIL import Image
 import pandas as pd
 
 #Specifying Input folder, prompt, and api key constant variables
-INPUT_FOLDER = "output_images_B"
+INPUT_FOLDER = "Live Demo"
 PROMPT = """Please identify the specific location that this image was taken.
 Provide as much information behind your thought process as possible. 
-Make the last line of your response be the specific location"""
-API_KEY = ""
+Make the last line of your response be the specific location."""
+API_KEY = "AIzaSyBrkdp3IPYPPW05sSHb8kWcmFi4E97meaU"
 
 def save_results(responses1):
     """Function to save results in a labelled dataframe, 
@@ -61,9 +61,9 @@ try:
         if model.model_name=="models/gemini-2.5-pro":
             print("pro 2.5 - sleeping 20 seconds")
             time.sleep(20) #Prevents hitting the 2/min rate limit
-        elif model.model_name=="models/gemini-2.0-flash":
-            print("flash 2.0 - sleeping 4.5 seconds")
-            time.sleep(4.5) #Prevents hitting the 15/min rate limit
+        elif model.model_name=="models/gemini-2.5-flash":
+            print("flash 2.5 - sleeping 10 seconds")
+            time.sleep(10) #Prevents hitting the 15/min rate limit
         else:
             print("unknown model - sleeping 15 seconds")
             time.sleep(15)
